@@ -1,0 +1,181 @@
+text,topic,target,sentiment,emotion,split
+The football team played a brilliant match tonight.,sports,football team,positive,admiration,calibration
+I love the way this coach develops young players.,sports,coach,positive,joy,train
+The final was exciting from the first minute to the last.,sports,final,positive,excitement,train
+Our goalkeeper was excellent under pressure.,sports,goalkeeper,positive,admiration,train
+The league has been really enjoyable this season.,sports,league,positive,joy,train
+The referee made a terrible decision near the end.,sports,referee,negative,anger,calibration
+I hate the constant stoppages in this tournament.,sports,constant stoppages,negative,disgust,train
+The match became boring after halftime.,sports,match,negative,sadness,train
+The team looked weak and completely disorganized.,sports,team,negative,sadness,train
+The new ticket prices are awful for regular supporters.,sports,ticket prices,negative,anger,train
+Club football has been fantastic this year.,sports,club football,positive,joy,test
+The striker gave an impressive performance in the derby.,sports,striker,positive,admiration,test
+I am disappointed by the national team's poor defending.,sports,national team,negative,sadness,test
+The World Cup coverage on this channel is annoying.,sports,world cup coverage,negative,anger,test
+The new voting process is clear and easy to understand.,politics,voting process,positive,admiration,calibration
+The public debate was respectful and well organized.,politics,public debate,positive,admiration,train
+I like that the policy document explains the costs clearly.,politics,policy document,positive,joy,train
+The parliamentary committee published a useful report.,politics,parliamentary committee report,positive,admiration,train
+The election website is simple and helpful for voters.,politics,election website,positive,joy,train
+The campaign advertisement was misleading and annoying.,politics,campaign advertisement,negative,anger,calibration
+The policy announcement created more confusion than clarity.,politics,policy announcement,negative,sadness,train
+I dislike the aggressive tone of the televised debate.,politics,televised debate,negative,disgust,train
+The government website is difficult to navigate.,politics,government website,negative,anger,train
+The voting instructions were poorly written and confusing.,politics,voting instructions,negative,sadness,train
+The election guide gives voters useful information.,politics,election guide,positive,admiration,test
+The minister explained the proposal clearly during the interview.,politics,proposal explanation,positive,admiration,test
+The debate format was frustrating and hard to follow.,politics,debate format,negative,anger,test
+The new policy summary is vague and confusing.,politics,policy summary,negative,sadness,test
+This laptop is fast and reliable for everyday work.,technology,laptop,positive,admiration,calibration
+I love how simple the new app interface feels.,technology,app interface,positive,joy,train
+The latest software update made the phone much smoother.,technology,software update,positive,joy,train
+The camera produces excellent photos in low light.,technology,camera,positive,admiration,train
+The backup tool is useful and easy to configure.,technology,backup tool,positive,admiration,train
+This software crashes whenever I open a large file.,technology,software,negative,anger,calibration
+The phone battery drains quickly after the update.,technology,phone battery,negative,anger,train
+I hate the constant popups in this application.,technology,constant popups,negative,disgust,train
+The new menu is confusing and unnecessarily complicated.,technology,new menu,negative,sadness,train
+The device overheats during normal use.,technology,device,negative,fear,train
+The new AI assistant is surprisingly helpful for note taking.,technology,ai assistant,positive,admiration,test
+This keyboard feels great and works reliably.,technology,keyboard,positive,joy,test
+The browser extension is slow and frustrating.,technology,browser extension,negative,anger,test
+The latest app release introduced several annoying bugs.,technology,app release,negative,anger,test
+Customer support solved my problem in a few minutes.,business,customer support,positive,admiration,calibration
+The company published a clear and useful annual report.,business,annual report,positive,admiration,train
+The new checkout process is smooth and easy.,business,checkout process,positive,joy,train
+I am impressed by the store's friendly service.,business,store service,positive,admiration,train
+The delivery tracking system is reliable and accurate.,business,delivery tracking system,positive,admiration,train
+The service fee is overpriced and difficult to justify.,business,service fee,negative,anger,calibration
+The company handled my complaint poorly.,business,complaint handling,negative,anger,train
+I hate the hidden charges on the final invoice.,business,hidden charges,negative,disgust,train
+The refund process is slow and frustrating.,business,refund process,negative,anger,train
+The support agent was dismissive and unhelpful.,business,support agent,negative,anger,train
+The online store made the return process surprisingly easy.,business,return process,positive,joy,test
+The quarterly report is concise and well organized.,business,quarterly report,positive,admiration,test
+The new subscription price feels unreasonable and expensive.,business,subscription price,negative,anger,test
+The billing system is confusing and unreliable.,business,billing system,negative,sadness,test
+The film was beautifully shot and very engaging.,entertainment,film,positive,admiration,calibration
+I loved the main character's performance.,entertainment,main character performance,positive,joy,train
+The concert was exciting and full of energy.,entertainment,concert,positive,excitement,train
+The series has a smart and original story.,entertainment,series,positive,admiration,train
+The album sounds wonderful from beginning to end.,entertainment,album,positive,joy,train
+The movie was boring and far too long.,entertainment,movie,negative,sadness,calibration
+I hated the predictable ending of the series.,entertainment,series ending,negative,disgust,train
+The dialogue was weak and unrealistic.,entertainment,dialogue,negative,sadness,train
+The concert sound was awful in the back rows.,entertainment,concert sound,negative,anger,train
+The game becomes frustrating after the first few levels.,entertainment,game,negative,anger,train
+The documentary is thoughtful and beautifully presented.,entertainment,documentary,positive,admiration,test
+I really enjoyed the soundtrack.,entertainment,soundtrack,positive,joy,test
+The final episode was disappointing and messy.,entertainment,final episode,negative,sadness,test
+The actor's performance felt dull and unconvincing.,entertainment,actor performance,negative,sadness,test
+The treatment helped me feel much better.,health,treatment,positive,joy,calibration
+The doctor gave a clear explanation of the test results.,health,doctor explanation,positive,admiration,train
+This fitness plan is simple and easy to follow.,health,fitness plan,positive,joy,train
+The hospital staff were kind and helpful.,health,hospital staff,positive,admiration,train
+The new appointment system works smoothly.,health,appointment system,positive,admiration,train
+The medicine caused an awful headache.,health,medicine,negative,sadness,calibration
+I am worried about the device giving unreliable readings.,health,device readings,negative,fear,train
+The waiting time at the clinic was terrible.,health,clinic waiting time,negative,anger,train
+The instructions on the prescription were confusing.,health,prescription instructions,negative,fear,train
+The hospital room was dirty and uncomfortable.,health,hospital room,negative,disgust,train
+The nurse was friendly and explained the procedure clearly.,health,nurse,positive,admiration,test
+The exercise routine has been really helpful.,health,exercise routine,positive,admiration,test
+The appointment delay was frustrating and stressful.,health,appointment delay,negative,anger,test
+The health app gives confusing advice about my schedule.,health,health app advice,negative,sadness,test
+The research paper is clear and carefully documented.,science,research paper,positive,admiration,calibration
+The experiment produced promising results.,science,experiment,positive,excitement,train
+I like how the study explains its method step by step.,science,study method,positive,joy,train
+The climate report is detailed and useful.,science,climate report,positive,admiration,train
+The telescope captured an amazing image of the galaxy.,science,telescope image,positive,admiration,train
+The study has a weak sample and unclear conclusions.,science,study,negative,sadness,calibration
+The experiment failed because the equipment was unreliable.,science,experiment equipment,negative,sadness,train
+The report is confusing about how the data was collected.,science,report,negative,sadness,train
+I am worried that the measurement error is too large.,science,measurement error,negative,fear,train
+The article gives a poor explanation of the results.,science,article explanation,negative,sadness,train
+The new study offers a useful explanation of the climate data.,science,new study,positive,admiration,test
+The laboratory team reported excellent progress.,science,laboratory team,positive,admiration,test
+The experiment design is messy and difficult to reproduce.,science,experiment design,negative,sadness,test
+The research summary leaves several important questions unanswered.,science,research summary,negative,sadness,test
+The teacher explained the lesson clearly.,education,teacher explanation,positive,admiration,calibration
+I enjoyed the practical exercises in this course.,education,practical exercises,positive,joy,train
+The online class is well organized and easy to follow.,education,online class,positive,admiration,train
+The textbook gives useful examples for every chapter.,education,textbook,positive,admiration,train
+The university library has a great study environment.,education,university library,positive,joy,train
+The exam instructions were confusing and incomplete.,education,exam instructions,negative,fear,calibration
+The lecture was boring and poorly structured.,education,lecture,negative,sadness,train
+I dislike the constant changes to the course schedule.,education,course schedule,negative,anger,train
+The assignment requirements are difficult to understand.,education,assignment requirements,negative,fear,train
+The learning platform is slow and unreliable.,education,learning platform,negative,anger,train
+The professor gave helpful feedback on my project.,education,professor feedback,positive,admiration,test
+The revision guide is clear and useful before the exam.,education,revision guide,positive,admiration,test
+The course website is frustrating to navigate.,education,course website,negative,anger,test
+The final assignment was unnecessarily confusing.,education,final assignment,negative,sadness,test
+The hotel staff were friendly and the room was clean.,travel,hotel,positive,joy,calibration
+Our flight was smooth and arrived early.,travel,flight,positive,joy,train
+I loved the quiet beach near the hotel.,travel,quiet beach,positive,joy,train
+The city tour was interesting and well organized.,travel,city tour,positive,admiration,train
+The airport signs were clear and helpful.,travel,airport signs,positive,admiration,train
+The flight was delayed for hours without an explanation.,travel,flight,negative,anger,calibration
+The hotel room smelled bad and felt dirty.,travel,hotel room,negative,disgust,train
+The booking website was confusing and slow.,travel,booking website,negative,anger,train
+I hated the overcrowded bus to the airport.,travel,airport bus,negative,disgust,train
+The tour guide was dismissive and unhelpful.,travel,tour guide,negative,anger,train
+The train journey was comfortable and relaxing.,travel,train journey,positive,joy,test
+The hotel breakfast was excellent.,travel,hotel breakfast,positive,admiration,test
+The airport security line was painfully slow.,travel,airport security line,negative,anger,test
+The room was overpriced and the air conditioner was broken.,travel,room,negative,anger,test
+The academy has done a great job preparing younger players.,sports,academy,positive,admiration,train
+The new stadium seats are uncomfortable and overpriced.,sports,stadium seats,negative,anger,train
+The goalkeeper stayed calm and reliable during the penalty shootout.,sports,goalkeeper,positive,admiration,test
+The long VAR review ruined the rhythm of the match.,sports,VAR review,negative,anger,test
+The local council published the budget in a clear format.,politics,local council budget,positive,admiration,train
+The campaign website is confusing and difficult to navigate.,politics,campaign website,negative,sadness,train
+The public hearing gave residents a useful chance to ask questions.,politics,public hearing,positive,admiration,test
+The voting instructions were unclear and frustrating for many people.,politics,voting instructions,negative,anger,test
+The new keyboard feels solid and comfortable to type on.,technology,keyboard,positive,joy,train
+This browser extension crashes whenever I open several tabs.,technology,browser extension,negative,anger,train
+The backup tool restored my files quickly and reliably.,technology,backup tool,positive,admiration,test
+The phone battery drains far too quickly after the update.,technology,phone battery,negative,anger,test
+Customer support handled the refund quickly and politely.,business,customer support,positive,admiration,train
+The subscription price is unreasonable for the features provided.,business,subscription price,negative,anger,train
+The checkout process was smooth and easy to complete.,business,checkout process,positive,joy,test
+The delivery service was slow and unreliable this week.,business,delivery service,negative,sadness,test
+The documentary explains a complicated subject in a clear way.,entertainment,documentary,positive,admiration,train
+The final episode felt dull and unfinished.,entertainment,final episode,negative,sadness,train
+The soundtrack made the quiet scenes surprisingly powerful.,entertainment,soundtrack,positive,admiration,test
+The dialogue was painfully repetitive throughout the film.,entertainment,dialogue,negative,sadness,test
+The nurse explained the procedure clearly and answered every question.,health,nurse,positive,admiration,train
+The clinic appointment system is slow and confusing.,health,clinic appointment system,negative,anger,train
+The exercise plan is simple enough to follow every day.,health,exercise plan,positive,joy,test
+The prescription instructions were incomplete and difficult to follow.,health,prescription instructions,negative,sadness,test
+The research team described its method clearly and shared the data.,science,research method,positive,admiration,train
+The experiment failed because the measurement process was unreliable.,science,measurement process,negative,sadness,train
+The telescope produced impressive images of the distant galaxy.,science,telescope,positive,admiration,test
+The study leaves several important questions unanswered.,science,study,negative,sadness,test
+The professor gave helpful feedback on the first assignment.,education,professor feedback,positive,admiration,train
+The online course platform is cluttered and difficult to use.,education,course platform,negative,sadness,train
+The revision guide is concise and easy to understand.,education,revision guide,positive,admiration,test
+The exam schedule is confusing and unnecessarily stressful.,education,exam schedule,negative,anger,test
+The hotel staff were friendly and made check-in easy.,travel,hotel staff,positive,joy,train
+The airport bus was delayed and painfully slow.,travel,airport bus,negative,anger,train
+The walking tour was relaxed and full of useful local details.,travel,walking tour,positive,joy,test
+The room was dirty and much smaller than the booking photos.,travel,hotel room,negative,disgust,test
+The captain stayed calm under pressure and helped the team recover.,sports,captain,positive,admiration,calibration
+The referee was not consistent enough to control the match.,sports,referee,negative,anger,calibration
+The council summary makes the budget changes easy to understand.,politics,council summary,positive,admiration,calibration
+The campaign page never explains who paid for the advertisement.,politics,campaign page,negative,anger,calibration
+The laptop now reconnects to Wi-Fi without any trouble.,technology,laptop,positive,joy,calibration
+The phone update is not reliable on older devices.,technology,phone update,negative,sadness,calibration
+The store made the return process simple and quick.,business,return process,positive,admiration,calibration
+The support queue was slow and the final answer was unhelpful.,business,support queue,negative,anger,calibration
+The documentary stays interesting without becoming dramatic.,entertainment,documentary,positive,admiration,calibration
+The final act is not convincing enough to support the ending.,entertainment,final act,negative,sadness,calibration
+The nurse explained the medication clearly and calmly.,health,nurse explanation,positive,admiration,calibration
+The clinic did not provide a clear reason for the delay.,health,clinic explanation,negative,anger,calibration
+The revised method gives stable results across repeated trials.,science,revised method,positive,admiration,calibration
+The paper never addresses the missing data in the second experiment.,science,paper,negative,sadness,calibration
+The tutor made the difficult example much easier to follow.,education,tutor explanation,positive,joy,calibration
+The assignment brief is not clear enough about the deadline.,education,assignment brief,negative,sadness,calibration
+The hotel staff handled the late arrival in a friendly way.,travel,hotel staff,positive,admiration,calibration
+The airport transfer was not reliable after midnight.,travel,airport transfer,negative,sadness,calibration

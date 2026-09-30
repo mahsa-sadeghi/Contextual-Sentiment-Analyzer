@@ -1,0 +1,1532 @@
+{
+  "date": "2026-09-30T17:27:15",
+  "accuracy": 100.0,
+  "precision": 100.0,
+  "recall": 100.0,
+  "f1_score": 100.0,
+  "macro_precision": 100.0,
+  "macro_recall": 100.0,
+  "macro_f1": 100.0,
+  "average_confidence": 83.71,
+  "calibration_temperature": 1.0,
+  "confusion_matrix": {
+    "negative": {
+      "negative": 27,
+      "positive": 0
+    },
+    "positive": {
+      "negative": 0,
+      "positive": 27
+    }
+  },
+  "tp": 27,
+  "tn": 27,
+  "fp": 0,
+  "fn": 0,
+  "test_samples": 54,
+  "correct": 54,
+  "wrong": 0,
+  "local": {
+    "samples": 54,
+    "sentiment": {
+      "accuracy": 100.0,
+      "macro_precision": 100.0,
+      "macro_recall": 100.0,
+      "macro_f1": 100.0,
+      "labels": [
+        "negative",
+        "positive"
+      ],
+      "confusion_matrix": {
+        "negative": {
+          "negative": 27,
+          "positive": 0
+        },
+        "positive": {
+          "negative": 0,
+          "positive": 27
+        }
+      },
+      "per_class": {
+        "negative": {
+          "precision": 100.0,
+          "recall": 100.0,
+          "f1": 100.0,
+          "support": 27
+        },
+        "positive": {
+          "precision": 100.0,
+          "recall": 100.0,
+          "f1": 100.0,
+          "support": 27
+        }
+      },
+      "samples": 54,
+      "correct": 54,
+      "wrong": 0
+    },
+    "topic": {
+      "accuracy": 96.3,
+      "macro_precision": 96.83,
+      "macro_recall": 96.3,
+      "macro_f1": 96.27,
+      "labels": [
+        "business",
+        "education",
+        "entertainment",
+        "health",
+        "politics",
+        "science",
+        "sports",
+        "technology",
+        "travel"
+      ],
+      "confusion_matrix": {
+        "business": {
+          "business": 6,
+          "education": 0,
+          "entertainment": 0,
+          "health": 0,
+          "politics": 0,
+          "science": 0,
+          "sports": 0,
+          "technology": 0,
+          "travel": 0
+        },
+        "education": {
+          "business": 0,
+          "education": 5,
+          "entertainment": 0,
+          "health": 0,
+          "politics": 0,
+          "science": 0,
+          "sports": 1,
+          "technology": 0,
+          "travel": 0
+        },
+        "entertainment": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 6,
+          "health": 0,
+          "politics": 0,
+          "science": 0,
+          "sports": 0,
+          "technology": 0,
+          "travel": 0
+        },
+        "health": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "health": 6,
+          "politics": 0,
+          "science": 0,
+          "sports": 0,
+          "technology": 0,
+          "travel": 0
+        },
+        "politics": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "health": 0,
+          "politics": 6,
+          "science": 0,
+          "sports": 0,
+          "technology": 0,
+          "travel": 0
+        },
+        "science": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "health": 0,
+          "politics": 0,
+          "science": 6,
+          "sports": 0,
+          "technology": 0,
+          "travel": 0
+        },
+        "sports": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "health": 0,
+          "politics": 0,
+          "science": 0,
+          "sports": 6,
+          "technology": 0,
+          "travel": 0
+        },
+        "technology": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "health": 0,
+          "politics": 0,
+          "science": 0,
+          "sports": 0,
+          "technology": 6,
+          "travel": 0
+        },
+        "travel": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "health": 0,
+          "politics": 1,
+          "science": 0,
+          "sports": 0,
+          "technology": 0,
+          "travel": 5
+        }
+      },
+      "per_class": {
+        "business": {
+          "precision": 100.0,
+          "recall": 100.0,
+          "f1": 100.0,
+          "support": 6
+        },
+        "education": {
+          "precision": 100.0,
+          "recall": 83.33,
+          "f1": 90.91,
+          "support": 6
+        },
+        "entertainment": {
+          "precision": 100.0,
+          "recall": 100.0,
+          "f1": 100.0,
+          "support": 6
+        },
+        "health": {
+          "precision": 100.0,
+          "recall": 100.0,
+          "f1": 100.0,
+          "support": 6
+        },
+        "politics": {
+          "precision": 85.71,
+          "recall": 100.0,
+          "f1": 92.31,
+          "support": 6
+        },
+        "science": {
+          "precision": 100.0,
+          "recall": 100.0,
+          "f1": 100.0,
+          "support": 6
+        },
+        "sports": {
+          "precision": 85.71,
+          "recall": 100.0,
+          "f1": 92.31,
+          "support": 6
+        },
+        "technology": {
+          "precision": 100.0,
+          "recall": 100.0,
+          "f1": 100.0,
+          "support": 6
+        },
+        "travel": {
+          "precision": 100.0,
+          "recall": 83.33,
+          "f1": 90.91,
+          "support": 6
+        }
+      },
+      "samples": 54,
+      "correct": 52,
+      "wrong": 2
+    },
+    "emotion": {
+      "accuracy": 81.48,
+      "macro_precision": 74.29,
+      "macro_recall": 68.12,
+      "macro_f1": 70.6,
+      "labels": [
+        "admiration",
+        "anger",
+        "disgust",
+        "joy",
+        "neutral",
+        "sadness"
+      ],
+      "confusion_matrix": {
+        "admiration": {
+          "admiration": 17,
+          "anger": 0,
+          "disgust": 0,
+          "joy": 1,
+          "neutral": 1,
+          "sadness": 0
+        },
+        "anger": {
+          "admiration": 0,
+          "anger": 11,
+          "disgust": 0,
+          "joy": 0,
+          "neutral": 1,
+          "sadness": 1
+        },
+        "disgust": {
+          "admiration": 0,
+          "anger": 0,
+          "disgust": 1,
+          "joy": 0,
+          "neutral": 0,
+          "sadness": 0
+        },
+        "joy": {
+          "admiration": 2,
+          "anger": 0,
+          "disgust": 0,
+          "joy": 4,
+          "neutral": 2,
+          "sadness": 0
+        },
+        "neutral": {
+          "admiration": 0,
+          "anger": 0,
+          "disgust": 0,
+          "joy": 0,
+          "neutral": 0,
+          "sadness": 0
+        },
+        "sadness": {
+          "admiration": 0,
+          "anger": 2,
+          "disgust": 0,
+          "joy": 0,
+          "neutral": 0,
+          "sadness": 11
+        }
+      },
+      "per_class": {
+        "admiration": {
+          "precision": 89.47,
+          "recall": 89.47,
+          "f1": 89.47,
+          "support": 19
+        },
+        "anger": {
+          "precision": 84.62,
+          "recall": 84.62,
+          "f1": 84.62,
+          "support": 13
+        },
+        "disgust": {
+          "precision": 100.0,
+          "recall": 100.0,
+          "f1": 100.0,
+          "support": 1
+        },
+        "joy": {
+          "precision": 80.0,
+          "recall": 50.0,
+          "f1": 61.54,
+          "support": 8
+        },
+        "neutral": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 0
+        },
+        "sadness": {
+          "precision": 91.67,
+          "recall": 84.62,
+          "f1": 88.0,
+          "support": 13
+        }
+      },
+      "samples": 54,
+      "correct": 44,
+      "wrong": 10
+    },
+    "targets": {
+      "samples": 54,
+      "exact_matches": 42,
+      "partial_matches": 50,
+      "exact_accuracy": 77.78,
+      "partial_accuracy": 92.59
+    },
+    "per_topic": {
+      "business": {
+        "samples": 6,
+        "sentiment_accuracy": 100.0,
+        "topic_accuracy": 100.0
+      },
+      "education": {
+        "samples": 6,
+        "sentiment_accuracy": 100.0,
+        "topic_accuracy": 83.33
+      },
+      "entertainment": {
+        "samples": 6,
+        "sentiment_accuracy": 100.0,
+        "topic_accuracy": 100.0
+      },
+      "health": {
+        "samples": 6,
+        "sentiment_accuracy": 100.0,
+        "topic_accuracy": 100.0
+      },
+      "politics": {
+        "samples": 6,
+        "sentiment_accuracy": 100.0,
+        "topic_accuracy": 100.0
+      },
+      "science": {
+        "samples": 6,
+        "sentiment_accuracy": 100.0,
+        "topic_accuracy": 100.0
+      },
+      "sports": {
+        "samples": 6,
+        "sentiment_accuracy": 100.0,
+        "topic_accuracy": 100.0
+      },
+      "technology": {
+        "samples": 6,
+        "sentiment_accuracy": 100.0,
+        "topic_accuracy": 100.0
+      },
+      "travel": {
+        "samples": 6,
+        "sentiment_accuracy": 100.0,
+        "topic_accuracy": 83.33
+      }
+    },
+    "confidence": {
+      "average": 83.71,
+      "average_correct": 83.71,
+      "average_wrong": 0.0,
+      "high_confidence_error_count": 0,
+      "high_confidence_errors": [],
+      "calibration": {
+        "ece": 16.29,
+        "brier": 0.0427,
+        "bins": [
+          {
+            "range": "50-60",
+            "samples": 1,
+            "average_confidence": 53.33,
+            "accuracy": 100.0
+          },
+          {
+            "range": "60-70",
+            "samples": 12,
+            "average_confidence": 64.78,
+            "accuracy": 100.0
+          },
+          {
+            "range": "70-80",
+            "samples": 5,
+            "average_confidence": 77.38,
+            "accuracy": 100.0
+          },
+          {
+            "range": "80-90",
+            "samples": 11,
+            "average_confidence": 85.23,
+            "accuracy": 100.0
+          },
+          {
+            "range": "90-100",
+            "samples": 25,
+            "average_confidence": 94.6,
+            "accuracy": 100.0
+          }
+        ]
+      }
+    },
+    "misclassified": [],
+    "positive_precision": 100.0,
+    "positive_recall": 100.0,
+    "positive_f1": 100.0
+  },
+  "benchmark": {
+    "samples": 90,
+    "sentiment": {
+      "accuracy": 80.0,
+      "macro_precision": 53.91,
+      "macro_recall": 53.24,
+      "macro_f1": 53.56,
+      "labels": [
+        "negative",
+        "positive",
+        "unknown"
+      ],
+      "confusion_matrix": {
+        "negative": {
+          "negative": 33,
+          "positive": 9,
+          "unknown": 1
+        },
+        "positive": {
+          "negative": 8,
+          "positive": 39,
+          "unknown": 0
+        },
+        "unknown": {
+          "negative": 0,
+          "positive": 0,
+          "unknown": 0
+        }
+      },
+      "per_class": {
+        "negative": {
+          "precision": 80.49,
+          "recall": 76.74,
+          "f1": 78.57,
+          "support": 43
+        },
+        "positive": {
+          "precision": 81.25,
+          "recall": 82.98,
+          "f1": 82.11,
+          "support": 47
+        },
+        "unknown": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 0
+        }
+      },
+      "samples": 90,
+      "correct": 72,
+      "wrong": 18
+    },
+    "topic": {
+      "accuracy": 74.44,
+      "macro_precision": 80.34,
+      "macro_recall": 67.0,
+      "macro_f1": 72.61,
+      "labels": [
+        "business",
+        "education",
+        "entertainment",
+        "general",
+        "health",
+        "politics",
+        "science",
+        "sports",
+        "technology",
+        "travel"
+      ],
+      "confusion_matrix": {
+        "business": {
+          "business": 7,
+          "education": 0,
+          "entertainment": 0,
+          "general": 2,
+          "health": 0,
+          "politics": 1,
+          "science": 0,
+          "sports": 0,
+          "technology": 0,
+          "travel": 0
+        },
+        "education": {
+          "business": 0,
+          "education": 8,
+          "entertainment": 0,
+          "general": 1,
+          "health": 0,
+          "politics": 0,
+          "science": 0,
+          "sports": 1,
+          "technology": 0,
+          "travel": 0
+        },
+        "entertainment": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 7,
+          "general": 2,
+          "health": 0,
+          "politics": 0,
+          "science": 0,
+          "sports": 1,
+          "technology": 0,
+          "travel": 0
+        },
+        "general": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "general": 0,
+          "health": 0,
+          "politics": 0,
+          "science": 0,
+          "sports": 0,
+          "technology": 0,
+          "travel": 0
+        },
+        "health": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "general": 2,
+          "health": 8,
+          "politics": 0,
+          "science": 0,
+          "sports": 0,
+          "technology": 0,
+          "travel": 0
+        },
+        "politics": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "general": 0,
+          "health": 0,
+          "politics": 10,
+          "science": 0,
+          "sports": 0,
+          "technology": 0,
+          "travel": 0
+        },
+        "science": {
+          "business": 1,
+          "education": 0,
+          "entertainment": 1,
+          "general": 3,
+          "health": 0,
+          "politics": 0,
+          "science": 5,
+          "sports": 0,
+          "technology": 0,
+          "travel": 0
+        },
+        "sports": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "general": 3,
+          "health": 0,
+          "politics": 0,
+          "science": 1,
+          "sports": 6,
+          "technology": 0,
+          "travel": 0
+        },
+        "technology": {
+          "business": 0,
+          "education": 0,
+          "entertainment": 0,
+          "general": 1,
+          "health": 0,
+          "politics": 0,
+          "science": 0,
+          "sports": 0,
+          "technology": 9,
+          "travel": 0
+        },
+        "travel": {
+          "business": 1,
+          "education": 0,
+          "entertainment": 0,
+          "general": 1,
+          "health": 1,
+          "politics": 0,
+          "science": 0,
+          "sports": 0,
+          "technology": 0,
+          "travel": 7
+        }
+      },
+      "per_class": {
+        "business": {
+          "precision": 77.78,
+          "recall": 70.0,
+          "f1": 73.68,
+          "support": 10
+        },
+        "education": {
+          "precision": 100.0,
+          "recall": 80.0,
+          "f1": 88.89,
+          "support": 10
+        },
+        "entertainment": {
+          "precision": 87.5,
+          "recall": 70.0,
+          "f1": 77.78,
+          "support": 10
+        },
+        "general": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 0
+        },
+        "health": {
+          "precision": 88.89,
+          "recall": 80.0,
+          "f1": 84.21,
+          "support": 10
+        },
+        "politics": {
+          "precision": 90.91,
+          "recall": 100.0,
+          "f1": 95.24,
+          "support": 10
+        },
+        "science": {
+          "precision": 83.33,
+          "recall": 50.0,
+          "f1": 62.5,
+          "support": 10
+        },
+        "sports": {
+          "precision": 75.0,
+          "recall": 60.0,
+          "f1": 66.67,
+          "support": 10
+        },
+        "technology": {
+          "precision": 100.0,
+          "recall": 90.0,
+          "f1": 94.74,
+          "support": 10
+        },
+        "travel": {
+          "precision": 100.0,
+          "recall": 70.0,
+          "f1": 82.35,
+          "support": 10
+        }
+      },
+      "samples": 90,
+      "correct": 67,
+      "wrong": 23
+    },
+    "emotion": {
+      "accuracy": 86.67,
+      "macro_precision": 82.5,
+      "macro_recall": 77.62,
+      "macro_f1": 79.93,
+      "labels": [
+        "admiration",
+        "anger",
+        "disgust",
+        "excitement",
+        "joy",
+        "neutral",
+        "sadness"
+      ],
+      "confusion_matrix": {
+        "admiration": {
+          "admiration": 26,
+          "anger": 0,
+          "disgust": 0,
+          "excitement": 0,
+          "joy": 2,
+          "neutral": 3,
+          "sadness": 0
+        },
+        "anger": {
+          "admiration": 0,
+          "anger": 17,
+          "disgust": 0,
+          "excitement": 0,
+          "joy": 0,
+          "neutral": 1,
+          "sadness": 0
+        },
+        "disgust": {
+          "admiration": 0,
+          "anger": 0,
+          "disgust": 1,
+          "excitement": 0,
+          "joy": 0,
+          "neutral": 0,
+          "sadness": 0
+        },
+        "excitement": {
+          "admiration": 0,
+          "anger": 0,
+          "disgust": 0,
+          "excitement": 1,
+          "joy": 0,
+          "neutral": 0,
+          "sadness": 0
+        },
+        "joy": {
+          "admiration": 2,
+          "anger": 0,
+          "disgust": 0,
+          "excitement": 0,
+          "joy": 11,
+          "neutral": 2,
+          "sadness": 0
+        },
+        "neutral": {
+          "admiration": 0,
+          "anger": 0,
+          "disgust": 0,
+          "excitement": 0,
+          "joy": 0,
+          "neutral": 0,
+          "sadness": 0
+        },
+        "sadness": {
+          "admiration": 0,
+          "anger": 0,
+          "disgust": 0,
+          "excitement": 0,
+          "joy": 0,
+          "neutral": 2,
+          "sadness": 22
+        }
+      },
+      "per_class": {
+        "admiration": {
+          "precision": 92.86,
+          "recall": 83.87,
+          "f1": 88.14,
+          "support": 31
+        },
+        "anger": {
+          "precision": 100.0,
+          "recall": 94.44,
+          "f1": 97.14,
+          "support": 18
+        },
+        "disgust": {
+          "precision": 100.0,
+          "recall": 100.0,
+          "f1": 100.0,
+          "support": 1
+        },
+        "excitement": {
+          "precision": 100.0,
+          "recall": 100.0,
+          "f1": 100.0,
+          "support": 1
+        },
+        "joy": {
+          "precision": 84.62,
+          "recall": 73.33,
+          "f1": 78.57,
+          "support": 15
+        },
+        "neutral": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 0
+        },
+        "sadness": {
+          "precision": 100.0,
+          "recall": 91.67,
+          "f1": 95.65,
+          "support": 24
+        }
+      },
+      "samples": 90,
+      "correct": 78,
+      "wrong": 12
+    },
+    "targets": {
+      "samples": 90,
+      "exact_matches": 69,
+      "partial_matches": 84,
+      "exact_accuracy": 76.67,
+      "partial_accuracy": 93.33
+    },
+    "per_topic": {
+      "business": {
+        "samples": 10,
+        "sentiment_accuracy": 80.0,
+        "topic_accuracy": 70.0
+      },
+      "education": {
+        "samples": 10,
+        "sentiment_accuracy": 90.0,
+        "topic_accuracy": 80.0
+      },
+      "entertainment": {
+        "samples": 10,
+        "sentiment_accuracy": 90.0,
+        "topic_accuracy": 70.0
+      },
+      "health": {
+        "samples": 10,
+        "sentiment_accuracy": 80.0,
+        "topic_accuracy": 80.0
+      },
+      "politics": {
+        "samples": 10,
+        "sentiment_accuracy": 80.0,
+        "topic_accuracy": 100.0
+      },
+      "science": {
+        "samples": 10,
+        "sentiment_accuracy": 80.0,
+        "topic_accuracy": 50.0
+      },
+      "sports": {
+        "samples": 10,
+        "sentiment_accuracy": 80.0,
+        "topic_accuracy": 60.0
+      },
+      "technology": {
+        "samples": 10,
+        "sentiment_accuracy": 60.0,
+        "topic_accuracy": 90.0
+      },
+      "travel": {
+        "samples": 10,
+        "sentiment_accuracy": 80.0,
+        "topic_accuracy": 70.0
+      }
+    },
+    "confidence": {
+      "average": 73.49,
+      "average_correct": 76.27,
+      "average_wrong": 62.37,
+      "high_confidence_error_count": 0,
+      "high_confidence_errors": [],
+      "calibration": {
+        "ece": 7.08,
+        "brier": 0.1418,
+        "bins": [
+          {
+            "range": "0-10",
+            "samples": 1,
+            "average_confidence": 0.0,
+            "accuracy": 0.0
+          },
+          {
+            "range": "50-60",
+            "samples": 7,
+            "average_confidence": 54.41,
+            "accuracy": 85.71
+          },
+          {
+            "range": "60-70",
+            "samples": 35,
+            "average_confidence": 64.51,
+            "accuracy": 65.71
+          },
+          {
+            "range": "70-80",
+            "samples": 15,
+            "average_confidence": 75.04,
+            "accuracy": 73.33
+          },
+          {
+            "range": "80-90",
+            "samples": 16,
+            "average_confidence": 84.51,
+            "accuracy": 100.0
+          },
+          {
+            "range": "90-100",
+            "samples": 16,
+            "average_confidence": 93.62,
+            "accuracy": 100.0
+          }
+        ]
+      }
+    },
+    "misclassified": [
+      {
+        "text": "The debate format made it hard to understand what each proposal actually changed.",
+        "topic": "politics",
+        "actual": "negative",
+        "predicted": "positive",
+        "confidence": 72.15,
+        "expected_target": "debate format",
+        "predicted_targets": [
+          "debate format"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "My laptop wakes from sleep almost instantly now.",
+        "topic": "technology",
+        "actual": "positive",
+        "predicted": "negative",
+        "confidence": 67.48,
+        "expected_target": "laptop",
+        "predicted_targets": [
+          "laptop"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The router setup page is much clearer than the old one.",
+        "topic": "technology",
+        "actual": "positive",
+        "predicted": "negative",
+        "confidence": 51.83,
+        "expected_target": "router setup page",
+        "predicted_targets": [
+          "router setup page"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The medication reminder screen is cluttered and easy to misread.",
+        "topic": "health",
+        "actual": "negative",
+        "predicted": "positive",
+        "confidence": 73.6,
+        "expected_target": "medication reminder screen",
+        "predicted_targets": [
+          "medication reminder screen"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The sample size is too small to make the result convincing.",
+        "topic": "science",
+        "actual": "negative",
+        "predicted": "positive",
+        "confidence": 63.0,
+        "expected_target": "sample size",
+        "predicted_targets": [
+          "sample size"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "Our connection was missed because the first train arrived late.",
+        "topic": "travel",
+        "actual": "negative",
+        "predicted": "positive",
+        "confidence": 65.0,
+        "expected_target": "first train",
+        "predicted_targets": [
+          "connection"
+        ],
+        "target_exact": false,
+        "target_partial": false
+      },
+      {
+        "text": "The rental car desk added an unexpected charge at pickup.",
+        "topic": "travel",
+        "actual": "negative",
+        "predicted": "unknown",
+        "confidence": 0.0,
+        "expected_target": "rental car desk",
+        "predicted_targets": [
+          "rental car desk"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The defense looked composed even after losing its captain.",
+        "topic": "sports",
+        "actual": "positive",
+        "predicted": "negative",
+        "confidence": 74.86,
+        "expected_target": "defense",
+        "predicted_targets": [
+          "defense"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The new pressing system stops being effective after halftime.",
+        "topic": "sports",
+        "actual": "negative",
+        "predicted": "positive",
+        "confidence": 65.0,
+        "expected_target": "pressing system",
+        "predicted_targets": [
+          "pressing system"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The policy summary is short enough to understand without legal training.",
+        "topic": "politics",
+        "actual": "positive",
+        "predicted": "negative",
+        "confidence": 68.28,
+        "expected_target": "policy summary",
+        "predicted_targets": [
+          "policy summary"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The router is finally stable after the firmware patch.",
+        "topic": "technology",
+        "actual": "positive",
+        "predicted": "negative",
+        "confidence": 65.0,
+        "expected_target": "router",
+        "predicted_targets": [
+          "router"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The new browser extension stops working after a few minutes.",
+        "topic": "technology",
+        "actual": "negative",
+        "predicted": "positive",
+        "confidence": 70.67,
+        "expected_target": "browser extension",
+        "predicted_targets": [
+          "browser extension"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The subscription page makes cancellation easier than before.",
+        "topic": "business",
+        "actual": "positive",
+        "predicted": "negative",
+        "confidence": 65.0,
+        "expected_target": "subscription page",
+        "predicted_targets": [
+          "subscription page"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The delivery fee is hard to justify for such a short distance.",
+        "topic": "business",
+        "actual": "negative",
+        "predicted": "positive",
+        "confidence": 65.85,
+        "expected_target": "delivery fee",
+        "predicted_targets": [
+          "delivery fee"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The lead performance stops being believable in the final act.",
+        "topic": "entertainment",
+        "actual": "negative",
+        "predicted": "positive",
+        "confidence": 65.0,
+        "expected_target": "lead performance",
+        "predicted_targets": [
+          "lead performance"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The appointment system is easier to use than it was last month.",
+        "topic": "health",
+        "actual": "positive",
+        "predicted": "negative",
+        "confidence": 65.0,
+        "expected_target": "appointment system",
+        "predicted_targets": [
+          "appointment system"
+        ],
+        "target_exact": true,
+        "target_partial": true
+      },
+      {
+        "text": "The authors never address the missing control group.",
+        "topic": "science",
+        "actual": "negative",
+        "predicted": "positive",
+        "confidence": 60.0,
+        "expected_target": "authors analysis",
+        "predicted_targets": [
+          "authors"
+        ],
+        "target_exact": false,
+        "target_partial": true
+      },
+      {
+        "text": "The revision guide no longer feels cluttered.",
+        "topic": "education",
+        "actual": "positive",
+        "predicted": "negative",
+        "confidence": 65.0,
+        "expected_target": "revision guide",
+        "predicted_targets": [
+          "revision guide no longer"
+        ],
+        "target_exact": false,
+        "target_partial": true
+      }
+    ],
+    "positive_precision": 81.25,
+    "positive_recall": 82.98,
+    "positive_f1": 82.11
+  },
+  "ambiguity": {
+    "accuracy": 100.0,
+    "macro_precision": 100.0,
+    "macro_recall": 100.0,
+    "macro_f1": 100.0,
+    "labels": [
+      "ambiguous",
+      "clear"
+    ],
+    "confusion_matrix": {
+      "ambiguous": {
+        "ambiguous": 15,
+        "clear": 0
+      },
+      "clear": {
+        "ambiguous": 0,
+        "clear": 15
+      }
+    },
+    "per_class": {
+      "ambiguous": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "support": 15
+      },
+      "clear": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "support": 15
+      }
+    },
+    "samples": 30,
+    "correct": 30,
+    "wrong": 0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1": 100.0,
+    "misclassified": []
+  },
+  "reference_models": {
+    "tfidf_logistic_regression": {
+      "accuracy": 60.0,
+      "correct": 54,
+      "samples": 90
+    },
+    "tfidf_linear_svm": {
+      "accuracy": 58.89,
+      "correct": 53,
+      "samples": 90
+    },
+    "vocabulary_size": 106
+  },
+  "topic": {
+    "accuracy": 96.3,
+    "macro_precision": 96.83,
+    "macro_recall": 96.3,
+    "macro_f1": 96.27,
+    "labels": [
+      "business",
+      "education",
+      "entertainment",
+      "health",
+      "politics",
+      "science",
+      "sports",
+      "technology",
+      "travel"
+    ],
+    "confusion_matrix": {
+      "business": {
+        "business": 6,
+        "education": 0,
+        "entertainment": 0,
+        "health": 0,
+        "politics": 0,
+        "science": 0,
+        "sports": 0,
+        "technology": 0,
+        "travel": 0
+      },
+      "education": {
+        "business": 0,
+        "education": 5,
+        "entertainment": 0,
+        "health": 0,
+        "politics": 0,
+        "science": 0,
+        "sports": 1,
+        "technology": 0,
+        "travel": 0
+      },
+      "entertainment": {
+        "business": 0,
+        "education": 0,
+        "entertainment": 6,
+        "health": 0,
+        "politics": 0,
+        "science": 0,
+        "sports": 0,
+        "technology": 0,
+        "travel": 0
+      },
+      "health": {
+        "business": 0,
+        "education": 0,
+        "entertainment": 0,
+        "health": 6,
+        "politics": 0,
+        "science": 0,
+        "sports": 0,
+        "technology": 0,
+        "travel": 0
+      },
+      "politics": {
+        "business": 0,
+        "education": 0,
+        "entertainment": 0,
+        "health": 0,
+        "politics": 6,
+        "science": 0,
+        "sports": 0,
+        "technology": 0,
+        "travel": 0
+      },
+      "science": {
+        "business": 0,
+        "education": 0,
+        "entertainment": 0,
+        "health": 0,
+        "politics": 0,
+        "science": 6,
+        "sports": 0,
+        "technology": 0,
+        "travel": 0
+      },
+      "sports": {
+        "business": 0,
+        "education": 0,
+        "entertainment": 0,
+        "health": 0,
+        "politics": 0,
+        "science": 0,
+        "sports": 6,
+        "technology": 0,
+        "travel": 0
+      },
+      "technology": {
+        "business": 0,
+        "education": 0,
+        "entertainment": 0,
+        "health": 0,
+        "politics": 0,
+        "science": 0,
+        "sports": 0,
+        "technology": 6,
+        "travel": 0
+      },
+      "travel": {
+        "business": 0,
+        "education": 0,
+        "entertainment": 0,
+        "health": 0,
+        "politics": 1,
+        "science": 0,
+        "sports": 0,
+        "technology": 0,
+        "travel": 5
+      }
+    },
+    "per_class": {
+      "business": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "support": 6
+      },
+      "education": {
+        "precision": 100.0,
+        "recall": 83.33,
+        "f1": 90.91,
+        "support": 6
+      },
+      "entertainment": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "support": 6
+      },
+      "health": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "support": 6
+      },
+      "politics": {
+        "precision": 85.71,
+        "recall": 100.0,
+        "f1": 92.31,
+        "support": 6
+      },
+      "science": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "support": 6
+      },
+      "sports": {
+        "precision": 85.71,
+        "recall": 100.0,
+        "f1": 92.31,
+        "support": 6
+      },
+      "technology": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "support": 6
+      },
+      "travel": {
+        "precision": 100.0,
+        "recall": 83.33,
+        "f1": 90.91,
+        "support": 6
+      }
+    },
+    "samples": 54,
+    "correct": 52,
+    "wrong": 2
+  },
+  "emotion": {
+    "accuracy": 81.48,
+    "macro_precision": 74.29,
+    "macro_recall": 68.12,
+    "macro_f1": 70.6,
+    "labels": [
+      "admiration",
+      "anger",
+      "disgust",
+      "joy",
+      "neutral",
+      "sadness"
+    ],
+    "confusion_matrix": {
+      "admiration": {
+        "admiration": 17,
+        "anger": 0,
+        "disgust": 0,
+        "joy": 1,
+        "neutral": 1,
+        "sadness": 0
+      },
+      "anger": {
+        "admiration": 0,
+        "anger": 11,
+        "disgust": 0,
+        "joy": 0,
+        "neutral": 1,
+        "sadness": 1
+      },
+      "disgust": {
+        "admiration": 0,
+        "anger": 0,
+        "disgust": 1,
+        "joy": 0,
+        "neutral": 0,
+        "sadness": 0
+      },
+      "joy": {
+        "admiration": 2,
+        "anger": 0,
+        "disgust": 0,
+        "joy": 4,
+        "neutral": 2,
+        "sadness": 0
+      },
+      "neutral": {
+        "admiration": 0,
+        "anger": 0,
+        "disgust": 0,
+        "joy": 0,
+        "neutral": 0,
+        "sadness": 0
+      },
+      "sadness": {
+        "admiration": 0,
+        "anger": 2,
+        "disgust": 0,
+        "joy": 0,
+        "neutral": 0,
+        "sadness": 11
+      }
+    },
+    "per_class": {
+      "admiration": {
+        "precision": 89.47,
+        "recall": 89.47,
+        "f1": 89.47,
+        "support": 19
+      },
+      "anger": {
+        "precision": 84.62,
+        "recall": 84.62,
+        "f1": 84.62,
+        "support": 13
+      },
+      "disgust": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "support": 1
+      },
+      "joy": {
+        "precision": 80.0,
+        "recall": 50.0,
+        "f1": 61.54,
+        "support": 8
+      },
+      "neutral": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "sadness": {
+        "precision": 91.67,
+        "recall": 84.62,
+        "f1": 88.0,
+        "support": 13
+      }
+    },
+    "samples": 54,
+    "correct": 44,
+    "wrong": 10
+  },
+  "targets": {
+    "samples": 54,
+    "exact_matches": 42,
+    "partial_matches": 50,
+    "exact_accuracy": 77.78,
+    "partial_accuracy": 92.59
+  },
+  "dataset": {
+    "version": "multidomain-calibrated-extended-2026-09-30",
+    "train_samples": 90,
+    "calibration_samples": 36,
+    "test_samples": 54,
+    "benchmark_samples": 90,
+    "ambiguity_samples": 30
+  },
+  "benchmark_note": "The benchmark is kept separate from training and calibration. It contains 90 hand-written English sentences with different wording and harder negation/compositional cases. It is larger and stricter than the local test split, but it is still a project benchmark rather than a public research dataset."
+}

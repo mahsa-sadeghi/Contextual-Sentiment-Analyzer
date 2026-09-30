@@ -1,0 +1,31 @@
+text,is_ambiguous
+It was terrible.,true
+That one is much better.,true
+They completely ruined it.,true
+This is the one I meant.,true
+The thing was surprisingly good.,true
+She said it was disappointing.,true
+Those were awful.,true
+What happened was really frustrating.,true
+I loved that part.,true
+It seems much easier now.,true
+That was excellent.,true
+They were not helpful at all.,true
+This one feels unreliable.,true
+I hated it.,true
+The other one was better.,true
+The router setup page is confusing.,false
+I hate the World Cup coverage.,false
+The hotel room was dirty.,false
+The professor feedback was helpful.,false
+The phone battery drains too quickly.,false
+The voting instructions are clear.,false
+The documentary was excellent.,false
+The clinic appointment system is slow.,false
+The telescope produced impressive images.,false
+The checkout process was easy.,false
+The exam schedule is unnecessarily stressful.,false
+The goalkeeper was reliable under pressure.,false
+The album was boring after the third track.,false
+The train arrived late at the airport.,false
+The research summary is easy to follow.,false

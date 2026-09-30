@@ -1,0 +1,2246 @@
+{
+  "dataset_version": "multidomain-calibrated-extended-2026-09-30",
+  "pos_counts": {
+    "love": 2,
+    "way": 2,
+    "coach": 1,
+    "develops": 1,
+    "young": 1,
+    "players": 2,
+    "final": 1,
+    "exciting": 2,
+    "first": 2,
+    "minute": 1,
+    "last": 1,
+    "our": 2,
+    "goalkeeper": 1,
+    "excellent": 2,
+    "under": 1,
+    "pressure": 1,
+    "league": 1,
+    "enjoyable": 1,
+    "season": 1,
+    "public": 1,
+    "debate": 1,
+    "respectful": 1,
+    "well": 3,
+    "organized": 3,
+    "like": 2,
+    "policy": 1,
+    "document": 1,
+    "explains": 3,
+    "costs": 1,
+    "clearly": 3,
+    "parliamentary": 1,
+    "committee": 1,
+    "published": 3,
+    "useful": 5,
+    "report": 3,
+    "election": 1,
+    "website": 1,
+    "simple": 3,
+    "helpful": 4,
+    "voters": 1,
+    "how": 2,
+    "new": 4,
+    "app": 1,
+    "interface": 1,
+    "feels": 2,
+    "latest": 1,
+    "software": 1,
+    "update": 1,
+    "made": 2,
+    "phone": 1,
+    "much": 1,
+    "smoother": 1,
+    "camera": 1,
+    "produces": 1,
+    "photos": 1,
+    "low": 1,
+    "light": 1,
+    "backup": 1,
+    "tool": 1,
+    "easy": 5,
+    "configure": 1,
+    "company": 1,
+    "clear": 5,
+    "annual": 1,
+    "checkout": 1,
+    "process": 1,
+    "smooth": 2,
+    "am": 1,
+    "impressed": 1,
+    "store's": 1,
+    "friendly": 2,
+    "service": 1,
+    "delivery": 1,
+    "tracking": 1,
+    "system": 2,
+    "reliable": 1,
+    "accurate": 1,
+    "loved": 2,
+    "main": 1,
+    "character's": 1,
+    "performance": 1,
+    "concert": 1,
+    "full": 1,
+    "energy": 1,
+    "series": 1,
+    "smart": 1,
+    "original": 1,
+    "story": 1,
+    "album": 1,
+    "sounds": 1,
+    "wonderful": 1,
+    "beginning": 1,
+    "end": 1,
+    "doctor": 1,
+    "gave": 2,
+    "explanation": 1,
+    "test": 1,
+    "results": 2,
+    "fitness": 1,
+    "plan": 1,
+    "follow": 2,
+    "hospital": 1,
+    "staff": 2,
+    "kind": 1,
+    "appointment": 1,
+    "works": 1,
+    "smoothly": 1,
+    "experiment": 1,
+    "produced": 1,
+    "promising": 1,
+    "study": 2,
+    "its": 2,
+    "method": 2,
+    "step": 2,
+    "climate": 1,
+    "detailed": 1,
+    "telescope": 1,
+    "captured": 1,
+    "amazing": 1,
+    "image": 1,
+    "galaxy": 1,
+    "enjoyed": 1,
+    "practical": 1,
+    "exercises": 1,
+    "course": 1,
+    "online": 1,
+    "class": 1,
+    "textbook": 1,
+    "gives": 1,
+    "examples": 1,
+    "every": 2,
+    "chapter": 1,
+    "university": 1,
+    "library": 1,
+    "great": 2,
+    "environment": 1,
+    "flight": 1,
+    "arrived": 1,
+    "early": 1,
+    "quiet": 1,
+    "beach": 1,
+    "near": 1,
+    "hotel": 2,
+    "city": 1,
+    "tour": 1,
+    "interesting": 1,
+    "airport": 1,
+    "signs": 1,
+    "academy": 1,
+    "done": 1,
+    "job": 1,
+    "preparing": 1,
+    "younger": 1,
+    "local": 1,
+    "council": 1,
+    "budget": 1,
+    "format": 1,
+    "keyboard": 1,
+    "solid": 1,
+    "comfortable": 1,
+    "type": 1,
+    "customer": 1,
+    "support": 1,
+    "handled": 1,
+    "refund": 1,
+    "quickly": 1,
+    "politely": 1,
+    "documentary": 1,
+    "complicated": 1,
+    "subject": 1,
+    "nurse": 1,
+    "explained": 1,
+    "procedure": 1,
+    "answered": 1,
+    "question": 1,
+    "research": 1,
+    "team": 1,
+    "described": 1,
+    "shared": 1,
+    "data": 1,
+    "professor": 1,
+    "feedback": 1,
+    "assignment": 1,
+    "check": 1
+  },
+  "neg_counts": {
+    "hate": 3,
+    "constant": 3,
+    "stoppages": 1,
+    "tournament": 1,
+    "match": 1,
+    "became": 1,
+    "boring": 2,
+    "after": 3,
+    "halftime": 1,
+    "team": 1,
+    "looked": 1,
+    "weak": 2,
+    "completely": 1,
+    "disorganized": 1,
+    "new": 3,
+    "ticket": 1,
+    "prices": 1,
+    "awful": 2,
+    "regular": 1,
+    "supporters": 1,
+    "policy": 1,
+    "announcement": 1,
+    "created": 1,
+    "more": 1,
+    "confusion": 1,
+    "than": 1,
+    "clarity": 1,
+    "dislike": 2,
+    "aggressive": 1,
+    "tone": 1,
+    "televised": 1,
+    "debate": 1,
+    "government": 1,
+    "website": 3,
+    "difficult": 4,
+    "navigate": 2,
+    "voting": 1,
+    "instructions": 2,
+    "poorly": 3,
+    "written": 1,
+    "confusing": 7,
+    "phone": 1,
+    "battery": 1,
+    "drains": 1,
+    "quickly": 1,
+    "update": 1,
+    "popups": 1,
+    "application": 1,
+    "menu": 1,
+    "unnecessarily": 1,
+    "complicated": 1,
+    "device": 2,
+    "overheats": 1,
+    "during": 1,
+    "normal": 1,
+    "use": 2,
+    "company": 1,
+    "handled": 1,
+    "my": 1,
+    "complaint": 1,
+    "hidden": 1,
+    "charges": 1,
+    "final": 2,
+    "invoice": 1,
+    "refund": 1,
+    "process": 2,
+    "slow": 5,
+    "frustrating": 2,
+    "support": 1,
+    "agent": 1,
+    "dismissive": 2,
+    "unhelpful": 2,
+    "hated": 2,
+    "predictable": 1,
+    "ending": 1,
+    "series": 1,
+    "dialogue": 1,
+    "unrealistic": 1,
+    "concert": 1,
+    "sound": 1,
+    "back": 1,
+    "rows": 1,
+    "game": 1,
+    "becomes": 1,
+    "first": 1,
+    "few": 1,
+    "levels": 1,
+    "am": 2,
+    "worried": 2,
+    "about": 2,
+    "giving": 1,
+    "unreliable": 4,
+    "readings": 1,
+    "waiting": 1,
+    "time": 1,
+    "clinic": 2,
+    "terrible": 1,
+    "prescription": 1,
+    "hospital": 1,
+    "room": 2,
+    "dirty": 2,
+    "uncomfortable": 2,
+    "experiment": 2,
+    "failed": 2,
+    "because": 2,
+    "equipment": 1,
+    "report": 1,
+    "how": 1,
+    "data": 1,
+    "collected": 1,
+    "measurement": 2,
+    "error": 1,
+    "too": 1,
+    "large": 1,
+    "article": 1,
+    "gives": 1,
+    "poor": 1,
+    "explanation": 1,
+    "results": 1,
+    "lecture": 1,
+    "structured": 1,
+    "changes": 1,
+    "course": 2,
+    "schedule": 1,
+    "assignment": 1,
+    "requirements": 1,
+    "understand": 1,
+    "learning": 1,
+    "platform": 2,
+    "hotel": 1,
+    "smelled": 1,
+    "bad": 1,
+    "felt": 2,
+    "booking": 1,
+    "overcrowded": 1,
+    "bus": 2,
+    "airport": 2,
+    "tour": 1,
+    "guide": 1,
+    "stadium": 1,
+    "seats": 1,
+    "overpriced": 1,
+    "campaign": 1,
+    "browser": 1,
+    "extension": 1,
+    "crashes": 1,
+    "whenever": 1,
+    "open": 1,
+    "several": 1,
+    "tabs": 1,
+    "subscription": 1,
+    "price": 1,
+    "unreasonable": 1,
+    "features": 1,
+    "provided": 1,
+    "episode": 1,
+    "dull": 1,
+    "unfinished": 1,
+    "appointment": 1,
+    "system": 1,
+    "online": 1,
+    "cluttered": 1,
+    "delayed": 1,
+    "painfully": 1
+  },
+  "pos_total": 242,
+  "neg_total": 222,
+  "vocab": [
+    "about",
+    "academy",
+    "accurate",
+    "after",
+    "agent",
+    "aggressive",
+    "airport",
+    "album",
+    "am",
+    "amazing",
+    "announcement",
+    "annual",
+    "answered",
+    "app",
+    "application",
+    "appointment",
+    "arrived",
+    "article",
+    "assignment",
+    "awful",
+    "back",
+    "backup",
+    "bad",
+    "battery",
+    "beach",
+    "became",
+    "because",
+    "becomes",
+    "beginning",
+    "booking",
+    "boring",
+    "browser",
+    "budget",
+    "bus",
+    "camera",
+    "campaign",
+    "captured",
+    "changes",
+    "chapter",
+    "character's",
+    "charges",
+    "check",
+    "checkout",
+    "city",
+    "clarity",
+    "class",
+    "clear",
+    "clearly",
+    "climate",
+    "clinic",
+    "cluttered",
+    "coach",
+    "collected",
+    "comfortable",
+    "committee",
+    "company",
+    "complaint",
+    "completely",
+    "complicated",
+    "concert",
+    "configure",
+    "confusing",
+    "confusion",
+    "constant",
+    "costs",
+    "council",
+    "course",
+    "crashes",
+    "created",
+    "customer",
+    "data",
+    "debate",
+    "delayed",
+    "delivery",
+    "described",
+    "detailed",
+    "develops",
+    "device",
+    "dialogue",
+    "difficult",
+    "dirty",
+    "dislike",
+    "dismissive",
+    "disorganized",
+    "doctor",
+    "document",
+    "documentary",
+    "done",
+    "drains",
+    "dull",
+    "during",
+    "early",
+    "easy",
+    "election",
+    "end",
+    "ending",
+    "energy",
+    "enjoyable",
+    "enjoyed",
+    "environment",
+    "episode",
+    "equipment",
+    "error",
+    "every",
+    "examples",
+    "excellent",
+    "exciting",
+    "exercises",
+    "experiment",
+    "explained",
+    "explains",
+    "explanation",
+    "extension",
+    "failed",
+    "features",
+    "feedback",
+    "feels",
+    "felt",
+    "few",
+    "final",
+    "first",
+    "fitness",
+    "flight",
+    "follow",
+    "format",
+    "friendly",
+    "frustrating",
+    "full",
+    "galaxy",
+    "game",
+    "gave",
+    "gives",
+    "giving",
+    "goalkeeper",
+    "government",
+    "great",
+    "guide",
+    "halftime",
+    "handled",
+    "hate",
+    "hated",
+    "helpful",
+    "hidden",
+    "hospital",
+    "hotel",
+    "how",
+    "image",
+    "impressed",
+    "instructions",
+    "interesting",
+    "interface",
+    "invoice",
+    "its",
+    "job",
+    "keyboard",
+    "kind",
+    "large",
+    "last",
+    "latest",
+    "league",
+    "learning",
+    "lecture",
+    "levels",
+    "library",
+    "light",
+    "like",
+    "local",
+    "looked",
+    "love",
+    "loved",
+    "low",
+    "made",
+    "main",
+    "match",
+    "measurement",
+    "menu",
+    "method",
+    "minute",
+    "more",
+    "much",
+    "my",
+    "navigate",
+    "near",
+    "new",
+    "normal",
+    "nurse",
+    "online",
+    "open",
+    "organized",
+    "original",
+    "our",
+    "overcrowded",
+    "overheats",
+    "overpriced",
+    "painfully",
+    "parliamentary",
+    "performance",
+    "phone",
+    "photos",
+    "plan",
+    "platform",
+    "players",
+    "policy",
+    "politely",
+    "poor",
+    "poorly",
+    "popups",
+    "practical",
+    "predictable",
+    "preparing",
+    "prescription",
+    "pressure",
+    "price",
+    "prices",
+    "procedure",
+    "process",
+    "produced",
+    "produces",
+    "professor",
+    "promising",
+    "provided",
+    "public",
+    "published",
+    "question",
+    "quickly",
+    "quiet",
+    "readings",
+    "refund",
+    "regular",
+    "reliable",
+    "report",
+    "requirements",
+    "research",
+    "respectful",
+    "results",
+    "room",
+    "rows",
+    "schedule",
+    "season",
+    "seats",
+    "series",
+    "service",
+    "several",
+    "shared",
+    "signs",
+    "simple",
+    "slow",
+    "smart",
+    "smelled",
+    "smooth",
+    "smoother",
+    "smoothly",
+    "software",
+    "solid",
+    "sound",
+    "sounds",
+    "stadium",
+    "staff",
+    "step",
+    "stoppages",
+    "store's",
+    "story",
+    "structured",
+    "study",
+    "subject",
+    "subscription",
+    "support",
+    "supporters",
+    "system",
+    "tabs",
+    "team",
+    "telescope",
+    "televised",
+    "terrible",
+    "test",
+    "textbook",
+    "than",
+    "ticket",
+    "time",
+    "tone",
+    "too",
+    "tool",
+    "tour",
+    "tournament",
+    "tracking",
+    "type",
+    "uncomfortable",
+    "under",
+    "understand",
+    "unfinished",
+    "unhelpful",
+    "university",
+    "unnecessarily",
+    "unrealistic",
+    "unreasonable",
+    "unreliable",
+    "update",
+    "use",
+    "useful",
+    "voters",
+    "voting",
+    "waiting",
+    "way",
+    "weak",
+    "website",
+    "well",
+    "whenever",
+    "wonderful",
+    "works",
+    "worried",
+    "written",
+    "young",
+    "younger"
+  ],
+  "word_score": {
+    "smart": 0.6564458137095173,
+    "invoice": -0.7298485474103733,
+    "gives": -0.03670136685042804,
+    "reliable": 0.6564458137095173,
+    "produced": 0.6564458137095173,
+    "charges": -0.7298485474103733,
+    "amazing": 0.6564458137095173,
+    "changes": -0.7298485474103733,
+    "than": -0.7298485474103733,
+    "worried": -1.1353136555185375,
+    "cluttered": -0.7298485474103733,
+    "phone": -0.03670136685042804,
+    "useful": 1.755058102377627,
+    "frustrating": -1.1353136555185375,
+    "local": 0.6564458137095173,
+    "hidden": -0.7298485474103733,
+    "accurate": 0.6564458137095173,
+    "minute": 0.6564458137095173,
+    "felt": -1.1353136555185375,
+    "league": 0.6564458137095173,
+    "camera": 0.6564458137095173,
+    "academy": 0.6564458137095173,
+    "debate": -0.03670136685042804,
+    "customer": 0.6564458137095173,
+    "structured": -0.7298485474103733,
+    "described": 0.6564458137095173,
+    "appointment": -0.03670136685042804,
+    "telescope": 0.6564458137095173,
+    "dirty": -1.1353136555185375,
+    "budget": 0.6564458137095173,
+    "done": 0.6564458137095173,
+    "develops": 0.6564458137095173,
+    "large": -0.7298485474103733,
+    "interesting": 0.6564458137095173,
+    "learning": -0.7298485474103733,
+    "comfortable": 0.6564458137095173,
+    "subject": 0.6564458137095173,
+    "easy": 1.755058102377627,
+    "series": -0.03670136685042804,
+    "bus": -1.1353136555185375,
+    "clarity": -0.7298485474103733,
+    "answered": 0.6564458137095173,
+    "overcrowded": -0.7298485474103733,
+    "support": -0.03670136685042804,
+    "sounds": 0.6564458137095173,
+    "error": -0.7298485474103733,
+    "concert": -0.03670136685042804,
+    "final": -0.44216647495859224,
+    "understand": -0.7298485474103733,
+    "halftime": -0.7298485474103733,
+    "university": 0.6564458137095173,
+    "ending": -0.7298485474103733,
+    "tabs": -0.7298485474103733,
+    "readings": -0.7298485474103733,
+    "study": 1.0619109218176819,
+    "smoothly": 0.6564458137095173,
+    "dislike": -1.1353136555185375,
+    "well": 1.3495929942694627,
+    "subscription": -0.7298485474103733,
+    "time": -0.7298485474103733,
+    "original": 0.6564458137095173,
+    "match": -0.7298485474103733,
+    "unrealistic": -0.7298485474103733,
+    "terrible": -0.7298485474103733,
+    "prescription": -0.7298485474103733,
+    "became": -0.7298485474103733,
+    "made": 1.0619109218176819,
+    "staff": 1.0619109218176819,
+    "popups": -0.7298485474103733,
+    "shared": 0.6564458137095173,
+    "early": 0.6564458137095173,
+    "end": 0.6564458137095173,
+    "question": 0.6564458137095173,
+    "procedure": 0.6564458137095173,
+    "weak": -1.1353136555185375,
+    "stoppages": -0.7298485474103733,
+    "examples": 0.6564458137095173,
+    "results": 0.3687637412577365,
+    "during": -0.7298485474103733,
+    "job": 0.6564458137095173,
+    "tool": 0.6564458137095173,
+    "becomes": -0.7298485474103733,
+    "solid": 0.6564458137095173,
+    "light": 0.6564458137095173,
+    "voters": 0.6564458137095173,
+    "test": 0.6564458137095173,
+    "policy": -0.03670136685042804,
+    "environment": 0.6564458137095173,
+    "constant": -1.4229957279703187,
+    "confusion": -0.7298485474103733,
+    "assignment": -0.03670136685042804,
+    "guide": -0.7298485474103733,
+    "game": -0.7298485474103733,
+    "how": 0.3687637412577365,
+    "schedule": -0.7298485474103733,
+    "few": -0.7298485474103733,
+    "wonderful": 0.6564458137095173,
+    "checkout": 0.6564458137095173,
+    "detailed": 0.6564458137095173,
+    "way": 1.0619109218176819,
+    "love": 1.0619109218176819,
+    "fitness": 0.6564458137095173,
+    "goalkeeper": 0.6564458137095173,
+    "much": 0.6564458137095173,
+    "complaint": -0.7298485474103733,
+    "check": 0.6564458137095173,
+    "disorganized": -0.7298485474103733,
+    "government": -0.7298485474103733,
+    "latest": 0.6564458137095173,
+    "plan": 0.6564458137095173,
+    "store's": 0.6564458137095173,
+    "drains": -0.7298485474103733,
+    "failed": -1.1353136555185375,
+    "clear": 1.755058102377627,
+    "respectful": 0.6564458137095173,
+    "painfully": -0.7298485474103733,
+    "quickly": -0.03670136685042804,
+    "explained": 0.6564458137095173,
+    "annual": 0.6564458137095173,
+    "awful": -1.1353136555185375,
+    "handled": -0.03670136685042804,
+    "hated": -1.1353136555185375,
+    "performance": 0.6564458137095173,
+    "equipment": -0.7298485474103733,
+    "overheats": -0.7298485474103733,
+    "measurement": -1.1353136555185375,
+    "helpful": 1.5727365455836724,
+    "looked": -0.7298485474103733,
+    "software": 0.6564458137095173,
+    "low": 0.6564458137095173,
+    "impressed": 0.6564458137095173,
+    "unnecessarily": -0.7298485474103733,
+    "several": -0.7298485474103733,
+    "committee": 0.6564458137095173,
+    "our": 1.0619109218176819,
+    "open": -0.7298485474103733,
+    "election": 0.6564458137095173,
+    "energy": 0.6564458137095173,
+    "great": 1.0619109218176819,
+    "because": -1.1353136555185375,
+    "delivery": 0.6564458137095173,
+    "ticket": -0.7298485474103733,
+    "voting": -0.7298485474103733,
+    "practical": 0.6564458137095173,
+    "sound": -0.7298485474103733,
+    "instructions": -1.1353136555185375,
+    "explanation": -0.03670136685042804,
+    "delayed": -0.7298485474103733,
+    "am": -0.44216647495859224,
+    "parliamentary": 0.6564458137095173,
+    "article": -0.7298485474103733,
+    "feels": 1.0619109218176819,
+    "photos": 0.6564458137095173,
+    "pressure": 0.6564458137095173,
+    "website": -0.7298485474103733,
+    "season": 0.6564458137095173,
+    "produces": 0.6564458137095173,
+    "browser": -0.7298485474103733,
+    "last": 0.6564458137095173,
+    "coach": 0.6564458137095173,
+    "process": -0.44216647495859224,
+    "prices": -0.7298485474103733,
+    "experiment": -0.44216647495859224,
+    "campaign": -0.7298485474103733,
+    "smelled": -0.7298485474103733,
+    "simple": 1.3495929942694627,
+    "completely": -0.7298485474103733,
+    "follow": 1.0619109218176819,
+    "galaxy": 0.6564458137095173,
+    "exercises": 0.6564458137095173,
+    "slow": -1.8284608360784829,
+    "character's": 0.6564458137095173,
+    "dialogue": -0.7298485474103733,
+    "smooth": 1.0619109218176819,
+    "young": 0.6564458137095173,
+    "room": -1.1353136555185375,
+    "research": 0.6564458137095173,
+    "difficult": -1.6461392792845282,
+    "textbook": 0.6564458137095173,
+    "every": 1.0619109218176819,
+    "flight": 0.6564458137095173,
+    "whenever": -0.7298485474103733,
+    "waiting": -0.7298485474103733,
+    "data": -0.03670136685042804,
+    "library": 0.6564458137095173,
+    "feedback": 0.6564458137095173,
+    "complicated": -0.03670136685042804,
+    "service": 0.6564458137095173,
+    "regular": -0.7298485474103733,
+    "exciting": 1.0619109218176819,
+    "nurse": 0.6564458137095173,
+    "created": -0.7298485474103733,
+    "hate": -1.4229957279703187,
+    "written": -0.7298485474103733,
+    "giving": -0.7298485474103733,
+    "episode": -0.7298485474103733,
+    "tour": -0.03670136685042804,
+    "hospital": -0.03670136685042804,
+    "lecture": -0.7298485474103733,
+    "smoother": 0.6564458137095173,
+    "document": 0.6564458137095173,
+    "unhelpful": -1.1353136555185375,
+    "clinic": -1.1353136555185375,
+    "report": 0.6564458137095173,
+    "younger": 0.6564458137095173,
+    "politely": 0.6564458137095173,
+    "use": -1.1353136555185375,
+    "rows": -0.7298485474103733,
+    "dismissive": -1.1353136555185375,
+    "first": 0.3687637412577365,
+    "extension": -0.7298485474103733,
+    "stadium": -0.7298485474103733,
+    "about": -1.1353136555185375,
+    "poorly": -1.4229957279703187,
+    "announcement": -0.7298485474103733,
+    "city": 0.6564458137095173,
+    "unreasonable": -0.7298485474103733,
+    "image": 0.6564458137095173,
+    "promising": 0.6564458137095173,
+    "kind": 0.6564458137095173,
+    "preparing": 0.6564458137095173,
+    "clearly": 1.3495929942694627,
+    "backup": 0.6564458137095173,
+    "works": 0.6564458137095173,
+    "boring": -1.1353136555185375,
+    "configure": 0.6564458137095173,
+    "enjoyable": 0.6564458137095173,
+    "friendly": 1.0619109218176819,
+    "system": 0.3687637412577365,
+    "navigate": -1.1353136555185375,
+    "hotel": 0.3687637412577365,
+    "like": 1.0619109218176819,
+    "application": -0.7298485474103733,
+    "crashes": -0.7298485474103733,
+    "arrived": 0.6564458137095173,
+    "new": 0.1864421844637818,
+    "tone": -0.7298485474103733,
+    "poor": -0.7298485474103733,
+    "enjoyed": 0.6564458137095173,
+    "refund": -0.03670136685042804,
+    "its": 1.0619109218176819,
+    "chapter": 0.6564458137095173,
+    "menu": -0.7298485474103733,
+    "team": -0.03670136685042804,
+    "beach": 0.6564458137095173,
+    "explains": 1.3495929942694627,
+    "step": 1.0619109218176819,
+    "features": -0.7298485474103733,
+    "climate": 0.6564458137095173,
+    "collected": -0.7298485474103733,
+    "professor": 0.6564458137095173,
+    "platform": -1.1353136555185375,
+    "unreliable": -1.6461392792845282,
+    "costs": 0.6564458137095173,
+    "levels": -0.7298485474103733,
+    "price": -0.7298485474103733,
+    "televised": -0.7298485474103733,
+    "update": -0.03670136685042804,
+    "full": 0.6564458137095173,
+    "unfinished": -0.7298485474103733,
+    "seats": -0.7298485474103733,
+    "bad": -0.7298485474103733,
+    "back": -0.7298485474103733,
+    "interface": 0.6564458137095173,
+    "signs": 0.6564458137095173,
+    "players": 1.0619109218176819,
+    "too": -0.7298485474103733,
+    "method": 1.0619109218176819,
+    "captured": 0.6564458137095173,
+    "under": 0.6564458137095173,
+    "keyboard": 0.6564458137095173,
+    "booking": -0.7298485474103733,
+    "beginning": 0.6564458137095173,
+    "published": 1.3495929942694627,
+    "gave": 1.0619109218176819,
+    "provided": -0.7298485474103733,
+    "online": -0.03670136685042804,
+    "app": 0.6564458137095173,
+    "battery": -0.7298485474103733,
+    "council": 0.6564458137095173,
+    "main": 0.6564458137095173,
+    "supporters": -0.7298485474103733,
+    "album": 0.6564458137095173,
+    "requirements": -0.7298485474103733,
+    "organized": 1.3495929942694627,
+    "quiet": 0.6564458137095173,
+    "near": 0.6564458137095173,
+    "confusing": -2.116142908530264,
+    "normal": -0.7298485474103733,
+    "predictable": -0.7298485474103733,
+    "excellent": 1.0619109218176819,
+    "format": 0.6564458137095173,
+    "public": 0.6564458137095173,
+    "aggressive": -0.7298485474103733,
+    "uncomfortable": -1.1353136555185375,
+    "overpriced": -0.7298485474103733,
+    "dull": -0.7298485474103733,
+    "tracking": 0.6564458137095173,
+    "story": 0.6564458137095173,
+    "doctor": 0.6564458137095173,
+    "agent": -0.7298485474103733,
+    "company": -0.03670136685042804,
+    "more": -0.7298485474103733,
+    "after": -1.4229957279703187,
+    "airport": -0.44216647495859224,
+    "course": -0.44216647495859224,
+    "type": 0.6564458137095173,
+    "documentary": 0.6564458137095173,
+    "device": -1.1353136555185375,
+    "tournament": -0.7298485474103733,
+    "loved": 1.0619109218176819,
+    "my": -0.7298485474103733,
+    "class": 0.6564458137095173
+  },
+  "top_positive": [
+    [
+      "useful",
+      1.755058102377627
+    ],
+    [
+      "easy",
+      1.755058102377627
+    ],
+    [
+      "clear",
+      1.755058102377627
+    ],
+    [
+      "helpful",
+      1.5727365455836724
+    ],
+    [
+      "well",
+      1.3495929942694627
+    ],
+    [
+      "simple",
+      1.3495929942694627
+    ],
+    [
+      "clearly",
+      1.3495929942694627
+    ],
+    [
+      "explains",
+      1.3495929942694627
+    ],
+    [
+      "published",
+      1.3495929942694627
+    ],
+    [
+      "organized",
+      1.3495929942694627
+    ],
+    [
+      "study",
+      1.0619109218176819
+    ],
+    [
+      "made",
+      1.0619109218176819
+    ],
+    [
+      "staff",
+      1.0619109218176819
+    ],
+    [
+      "way",
+      1.0619109218176819
+    ],
+    [
+      "love",
+      1.0619109218176819
+    ],
+    [
+      "our",
+      1.0619109218176819
+    ],
+    [
+      "great",
+      1.0619109218176819
+    ],
+    [
+      "feels",
+      1.0619109218176819
+    ],
+    [
+      "follow",
+      1.0619109218176819
+    ],
+    [
+      "smooth",
+      1.0619109218176819
+    ],
+    [
+      "every",
+      1.0619109218176819
+    ],
+    [
+      "exciting",
+      1.0619109218176819
+    ],
+    [
+      "friendly",
+      1.0619109218176819
+    ],
+    [
+      "like",
+      1.0619109218176819
+    ],
+    [
+      "its",
+      1.0619109218176819
+    ],
+    [
+      "step",
+      1.0619109218176819
+    ],
+    [
+      "players",
+      1.0619109218176819
+    ],
+    [
+      "method",
+      1.0619109218176819
+    ],
+    [
+      "gave",
+      1.0619109218176819
+    ],
+    [
+      "excellent",
+      1.0619109218176819
+    ],
+    [
+      "loved",
+      1.0619109218176819
+    ],
+    [
+      "smart",
+      0.6564458137095173
+    ],
+    [
+      "reliable",
+      0.6564458137095173
+    ],
+    [
+      "produced",
+      0.6564458137095173
+    ],
+    [
+      "amazing",
+      0.6564458137095173
+    ],
+    [
+      "local",
+      0.6564458137095173
+    ],
+    [
+      "accurate",
+      0.6564458137095173
+    ],
+    [
+      "minute",
+      0.6564458137095173
+    ],
+    [
+      "league",
+      0.6564458137095173
+    ],
+    [
+      "camera",
+      0.6564458137095173
+    ],
+    [
+      "academy",
+      0.6564458137095173
+    ],
+    [
+      "customer",
+      0.6564458137095173
+    ],
+    [
+      "described",
+      0.6564458137095173
+    ],
+    [
+      "telescope",
+      0.6564458137095173
+    ],
+    [
+      "budget",
+      0.6564458137095173
+    ],
+    [
+      "done",
+      0.6564458137095173
+    ],
+    [
+      "develops",
+      0.6564458137095173
+    ],
+    [
+      "interesting",
+      0.6564458137095173
+    ],
+    [
+      "comfortable",
+      0.6564458137095173
+    ],
+    [
+      "subject",
+      0.6564458137095173
+    ],
+    [
+      "answered",
+      0.6564458137095173
+    ],
+    [
+      "sounds",
+      0.6564458137095173
+    ],
+    [
+      "university",
+      0.6564458137095173
+    ],
+    [
+      "smoothly",
+      0.6564458137095173
+    ],
+    [
+      "original",
+      0.6564458137095173
+    ],
+    [
+      "shared",
+      0.6564458137095173
+    ],
+    [
+      "early",
+      0.6564458137095173
+    ],
+    [
+      "end",
+      0.6564458137095173
+    ],
+    [
+      "question",
+      0.6564458137095173
+    ],
+    [
+      "procedure",
+      0.6564458137095173
+    ],
+    [
+      "examples",
+      0.6564458137095173
+    ],
+    [
+      "job",
+      0.6564458137095173
+    ],
+    [
+      "tool",
+      0.6564458137095173
+    ],
+    [
+      "solid",
+      0.6564458137095173
+    ],
+    [
+      "light",
+      0.6564458137095173
+    ],
+    [
+      "voters",
+      0.6564458137095173
+    ],
+    [
+      "test",
+      0.6564458137095173
+    ],
+    [
+      "environment",
+      0.6564458137095173
+    ],
+    [
+      "wonderful",
+      0.6564458137095173
+    ],
+    [
+      "checkout",
+      0.6564458137095173
+    ],
+    [
+      "detailed",
+      0.6564458137095173
+    ],
+    [
+      "fitness",
+      0.6564458137095173
+    ],
+    [
+      "goalkeeper",
+      0.6564458137095173
+    ],
+    [
+      "much",
+      0.6564458137095173
+    ],
+    [
+      "check",
+      0.6564458137095173
+    ],
+    [
+      "latest",
+      0.6564458137095173
+    ],
+    [
+      "plan",
+      0.6564458137095173
+    ],
+    [
+      "store's",
+      0.6564458137095173
+    ],
+    [
+      "respectful",
+      0.6564458137095173
+    ],
+    [
+      "explained",
+      0.6564458137095173
+    ],
+    [
+      "annual",
+      0.6564458137095173
+    ],
+    [
+      "performance",
+      0.6564458137095173
+    ],
+    [
+      "software",
+      0.6564458137095173
+    ],
+    [
+      "low",
+      0.6564458137095173
+    ],
+    [
+      "impressed",
+      0.6564458137095173
+    ],
+    [
+      "committee",
+      0.6564458137095173
+    ],
+    [
+      "election",
+      0.6564458137095173
+    ],
+    [
+      "energy",
+      0.6564458137095173
+    ],
+    [
+      "delivery",
+      0.6564458137095173
+    ],
+    [
+      "practical",
+      0.6564458137095173
+    ],
+    [
+      "parliamentary",
+      0.6564458137095173
+    ],
+    [
+      "photos",
+      0.6564458137095173
+    ],
+    [
+      "pressure",
+      0.6564458137095173
+    ],
+    [
+      "season",
+      0.6564458137095173
+    ],
+    [
+      "produces",
+      0.6564458137095173
+    ],
+    [
+      "last",
+      0.6564458137095173
+    ],
+    [
+      "coach",
+      0.6564458137095173
+    ],
+    [
+      "galaxy",
+      0.6564458137095173
+    ],
+    [
+      "exercises",
+      0.6564458137095173
+    ],
+    [
+      "character's",
+      0.6564458137095173
+    ],
+    [
+      "young",
+      0.6564458137095173
+    ],
+    [
+      "research",
+      0.6564458137095173
+    ],
+    [
+      "textbook",
+      0.6564458137095173
+    ],
+    [
+      "flight",
+      0.6564458137095173
+    ],
+    [
+      "library",
+      0.6564458137095173
+    ],
+    [
+      "feedback",
+      0.6564458137095173
+    ],
+    [
+      "service",
+      0.6564458137095173
+    ],
+    [
+      "nurse",
+      0.6564458137095173
+    ],
+    [
+      "smoother",
+      0.6564458137095173
+    ],
+    [
+      "document",
+      0.6564458137095173
+    ],
+    [
+      "report",
+      0.6564458137095173
+    ],
+    [
+      "younger",
+      0.6564458137095173
+    ],
+    [
+      "politely",
+      0.6564458137095173
+    ],
+    [
+      "city",
+      0.6564458137095173
+    ],
+    [
+      "image",
+      0.6564458137095173
+    ],
+    [
+      "promising",
+      0.6564458137095173
+    ],
+    [
+      "kind",
+      0.6564458137095173
+    ],
+    [
+      "preparing",
+      0.6564458137095173
+    ],
+    [
+      "backup",
+      0.6564458137095173
+    ],
+    [
+      "works",
+      0.6564458137095173
+    ],
+    [
+      "configure",
+      0.6564458137095173
+    ],
+    [
+      "enjoyable",
+      0.6564458137095173
+    ],
+    [
+      "arrived",
+      0.6564458137095173
+    ],
+    [
+      "enjoyed",
+      0.6564458137095173
+    ],
+    [
+      "chapter",
+      0.6564458137095173
+    ],
+    [
+      "beach",
+      0.6564458137095173
+    ],
+    [
+      "climate",
+      0.6564458137095173
+    ],
+    [
+      "professor",
+      0.6564458137095173
+    ],
+    [
+      "costs",
+      0.6564458137095173
+    ],
+    [
+      "full",
+      0.6564458137095173
+    ],
+    [
+      "interface",
+      0.6564458137095173
+    ],
+    [
+      "signs",
+      0.6564458137095173
+    ],
+    [
+      "captured",
+      0.6564458137095173
+    ],
+    [
+      "under",
+      0.6564458137095173
+    ],
+    [
+      "keyboard",
+      0.6564458137095173
+    ],
+    [
+      "beginning",
+      0.6564458137095173
+    ],
+    [
+      "app",
+      0.6564458137095173
+    ],
+    [
+      "council",
+      0.6564458137095173
+    ],
+    [
+      "main",
+      0.6564458137095173
+    ],
+    [
+      "album",
+      0.6564458137095173
+    ],
+    [
+      "quiet",
+      0.6564458137095173
+    ],
+    [
+      "near",
+      0.6564458137095173
+    ],
+    [
+      "format",
+      0.6564458137095173
+    ],
+    [
+      "public",
+      0.6564458137095173
+    ],
+    [
+      "tracking",
+      0.6564458137095173
+    ],
+    [
+      "story",
+      0.6564458137095173
+    ],
+    [
+      "doctor",
+      0.6564458137095173
+    ],
+    [
+      "type",
+      0.6564458137095173
+    ],
+    [
+      "documentary",
+      0.6564458137095173
+    ],
+    [
+      "class",
+      0.6564458137095173
+    ],
+    [
+      "results",
+      0.3687637412577365
+    ],
+    [
+      "how",
+      0.3687637412577365
+    ],
+    [
+      "first",
+      0.3687637412577365
+    ],
+    [
+      "system",
+      0.3687637412577365
+    ],
+    [
+      "hotel",
+      0.3687637412577365
+    ],
+    [
+      "new",
+      0.1864421844637818
+    ]
+  ],
+  "top_negative": [
+    [
+      "confusing",
+      -2.116142908530264
+    ],
+    [
+      "slow",
+      -1.8284608360784829
+    ],
+    [
+      "difficult",
+      -1.6461392792845282
+    ],
+    [
+      "unreliable",
+      -1.6461392792845282
+    ],
+    [
+      "constant",
+      -1.4229957279703187
+    ],
+    [
+      "hate",
+      -1.4229957279703187
+    ],
+    [
+      "poorly",
+      -1.4229957279703187
+    ],
+    [
+      "after",
+      -1.4229957279703187
+    ],
+    [
+      "worried",
+      -1.1353136555185375
+    ],
+    [
+      "frustrating",
+      -1.1353136555185375
+    ],
+    [
+      "felt",
+      -1.1353136555185375
+    ],
+    [
+      "dirty",
+      -1.1353136555185375
+    ],
+    [
+      "bus",
+      -1.1353136555185375
+    ],
+    [
+      "dislike",
+      -1.1353136555185375
+    ],
+    [
+      "weak",
+      -1.1353136555185375
+    ],
+    [
+      "failed",
+      -1.1353136555185375
+    ],
+    [
+      "awful",
+      -1.1353136555185375
+    ],
+    [
+      "hated",
+      -1.1353136555185375
+    ],
+    [
+      "measurement",
+      -1.1353136555185375
+    ],
+    [
+      "because",
+      -1.1353136555185375
+    ],
+    [
+      "instructions",
+      -1.1353136555185375
+    ],
+    [
+      "room",
+      -1.1353136555185375
+    ],
+    [
+      "unhelpful",
+      -1.1353136555185375
+    ],
+    [
+      "clinic",
+      -1.1353136555185375
+    ],
+    [
+      "use",
+      -1.1353136555185375
+    ],
+    [
+      "dismissive",
+      -1.1353136555185375
+    ],
+    [
+      "about",
+      -1.1353136555185375
+    ],
+    [
+      "boring",
+      -1.1353136555185375
+    ],
+    [
+      "navigate",
+      -1.1353136555185375
+    ],
+    [
+      "platform",
+      -1.1353136555185375
+    ],
+    [
+      "uncomfortable",
+      -1.1353136555185375
+    ],
+    [
+      "device",
+      -1.1353136555185375
+    ],
+    [
+      "invoice",
+      -0.7298485474103733
+    ],
+    [
+      "charges",
+      -0.7298485474103733
+    ],
+    [
+      "changes",
+      -0.7298485474103733
+    ],
+    [
+      "than",
+      -0.7298485474103733
+    ],
+    [
+      "cluttered",
+      -0.7298485474103733
+    ],
+    [
+      "hidden",
+      -0.7298485474103733
+    ],
+    [
+      "structured",
+      -0.7298485474103733
+    ],
+    [
+      "large",
+      -0.7298485474103733
+    ],
+    [
+      "learning",
+      -0.7298485474103733
+    ],
+    [
+      "clarity",
+      -0.7298485474103733
+    ],
+    [
+      "overcrowded",
+      -0.7298485474103733
+    ],
+    [
+      "error",
+      -0.7298485474103733
+    ],
+    [
+      "understand",
+      -0.7298485474103733
+    ],
+    [
+      "halftime",
+      -0.7298485474103733
+    ],
+    [
+      "ending",
+      -0.7298485474103733
+    ],
+    [
+      "tabs",
+      -0.7298485474103733
+    ],
+    [
+      "readings",
+      -0.7298485474103733
+    ],
+    [
+      "subscription",
+      -0.7298485474103733
+    ],
+    [
+      "time",
+      -0.7298485474103733
+    ],
+    [
+      "match",
+      -0.7298485474103733
+    ],
+    [
+      "unrealistic",
+      -0.7298485474103733
+    ],
+    [
+      "terrible",
+      -0.7298485474103733
+    ],
+    [
+      "prescription",
+      -0.7298485474103733
+    ],
+    [
+      "became",
+      -0.7298485474103733
+    ],
+    [
+      "popups",
+      -0.7298485474103733
+    ],
+    [
+      "stoppages",
+      -0.7298485474103733
+    ],
+    [
+      "during",
+      -0.7298485474103733
+    ],
+    [
+      "becomes",
+      -0.7298485474103733
+    ],
+    [
+      "confusion",
+      -0.7298485474103733
+    ],
+    [
+      "guide",
+      -0.7298485474103733
+    ],
+    [
+      "game",
+      -0.7298485474103733
+    ],
+    [
+      "schedule",
+      -0.7298485474103733
+    ],
+    [
+      "few",
+      -0.7298485474103733
+    ],
+    [
+      "complaint",
+      -0.7298485474103733
+    ],
+    [
+      "disorganized",
+      -0.7298485474103733
+    ],
+    [
+      "government",
+      -0.7298485474103733
+    ],
+    [
+      "drains",
+      -0.7298485474103733
+    ],
+    [
+      "painfully",
+      -0.7298485474103733
+    ],
+    [
+      "equipment",
+      -0.7298485474103733
+    ],
+    [
+      "overheats",
+      -0.7298485474103733
+    ],
+    [
+      "looked",
+      -0.7298485474103733
+    ],
+    [
+      "unnecessarily",
+      -0.7298485474103733
+    ],
+    [
+      "several",
+      -0.7298485474103733
+    ],
+    [
+      "open",
+      -0.7298485474103733
+    ],
+    [
+      "ticket",
+      -0.7298485474103733
+    ],
+    [
+      "voting",
+      -0.7298485474103733
+    ],
+    [
+      "sound",
+      -0.7298485474103733
+    ],
+    [
+      "delayed",
+      -0.7298485474103733
+    ],
+    [
+      "article",
+      -0.7298485474103733
+    ],
+    [
+      "website",
+      -0.7298485474103733
+    ],
+    [
+      "browser",
+      -0.7298485474103733
+    ],
+    [
+      "prices",
+      -0.7298485474103733
+    ],
+    [
+      "campaign",
+      -0.7298485474103733
+    ],
+    [
+      "smelled",
+      -0.7298485474103733
+    ],
+    [
+      "completely",
+      -0.7298485474103733
+    ],
+    [
+      "dialogue",
+      -0.7298485474103733
+    ],
+    [
+      "whenever",
+      -0.7298485474103733
+    ],
+    [
+      "waiting",
+      -0.7298485474103733
+    ],
+    [
+      "regular",
+      -0.7298485474103733
+    ],
+    [
+      "created",
+      -0.7298485474103733
+    ],
+    [
+      "written",
+      -0.7298485474103733
+    ],
+    [
+      "giving",
+      -0.7298485474103733
+    ],
+    [
+      "episode",
+      -0.7298485474103733
+    ],
+    [
+      "lecture",
+      -0.7298485474103733
+    ],
+    [
+      "rows",
+      -0.7298485474103733
+    ],
+    [
+      "extension",
+      -0.7298485474103733
+    ],
+    [
+      "stadium",
+      -0.7298485474103733
+    ],
+    [
+      "announcement",
+      -0.7298485474103733
+    ],
+    [
+      "unreasonable",
+      -0.7298485474103733
+    ],
+    [
+      "application",
+      -0.7298485474103733
+    ],
+    [
+      "crashes",
+      -0.7298485474103733
+    ],
+    [
+      "tone",
+      -0.7298485474103733
+    ],
+    [
+      "poor",
+      -0.7298485474103733
+    ],
+    [
+      "menu",
+      -0.7298485474103733
+    ],
+    [
+      "features",
+      -0.7298485474103733
+    ],
+    [
+      "collected",
+      -0.7298485474103733
+    ],
+    [
+      "levels",
+      -0.7298485474103733
+    ],
+    [
+      "price",
+      -0.7298485474103733
+    ],
+    [
+      "televised",
+      -0.7298485474103733
+    ],
+    [
+      "unfinished",
+      -0.7298485474103733
+    ],
+    [
+      "seats",
+      -0.7298485474103733
+    ],
+    [
+      "bad",
+      -0.7298485474103733
+    ],
+    [
+      "back",
+      -0.7298485474103733
+    ],
+    [
+      "too",
+      -0.7298485474103733
+    ],
+    [
+      "booking",
+      -0.7298485474103733
+    ],
+    [
+      "provided",
+      -0.7298485474103733
+    ],
+    [
+      "battery",
+      -0.7298485474103733
+    ],
+    [
+      "supporters",
+      -0.7298485474103733
+    ],
+    [
+      "requirements",
+      -0.7298485474103733
+    ],
+    [
+      "normal",
+      -0.7298485474103733
+    ],
+    [
+      "predictable",
+      -0.7298485474103733
+    ],
+    [
+      "aggressive",
+      -0.7298485474103733
+    ],
+    [
+      "overpriced",
+      -0.7298485474103733
+    ],
+    [
+      "dull",
+      -0.7298485474103733
+    ],
+    [
+      "agent",
+      -0.7298485474103733
+    ],
+    [
+      "more",
+      -0.7298485474103733
+    ],
+    [
+      "tournament",
+      -0.7298485474103733
+    ],
+    [
+      "my",
+      -0.7298485474103733
+    ],
+    [
+      "final",
+      -0.44216647495859224
+    ],
+    [
+      "am",
+      -0.44216647495859224
+    ],
+    [
+      "process",
+      -0.44216647495859224
+    ],
+    [
+      "experiment",
+      -0.44216647495859224
+    ],
+    [
+      "airport",
+      -0.44216647495859224
+    ],
+    [
+      "course",
+      -0.44216647495859224
+    ],
+    [
+      "gives",
+      -0.03670136685042804
+    ],
+    [
+      "phone",
+      -0.03670136685042804
+    ],
+    [
+      "debate",
+      -0.03670136685042804
+    ],
+    [
+      "appointment",
+      -0.03670136685042804
+    ],
+    [
+      "series",
+      -0.03670136685042804
+    ],
+    [
+      "support",
+      -0.03670136685042804
+    ],
+    [
+      "concert",
+      -0.03670136685042804
+    ],
+    [
+      "policy",
+      -0.03670136685042804
+    ],
+    [
+      "assignment",
+      -0.03670136685042804
+    ],
+    [
+      "quickly",
+      -0.03670136685042804
+    ],
+    [
+      "handled",
+      -0.03670136685042804
+    ],
+    [
+      "explanation",
+      -0.03670136685042804
+    ],
+    [
+      "data",
+      -0.03670136685042804
+    ],
+    [
+      "complicated",
+      -0.03670136685042804
+    ],
+    [
+      "tour",
+      -0.03670136685042804
+    ],
+    [
+      "hospital",
+      -0.03670136685042804
+    ],
+    [
+      "refund",
+      -0.03670136685042804
+    ],
+    [
+      "team",
+      -0.03670136685042804
+    ],
+    [
+      "update",
+      -0.03670136685042804
+    ],
+    [
+      "online",
+      -0.03670136685042804
+    ],
+    [
+      "company",
+      -0.03670136685042804
+    ]
+  ],
+  "prior_positive": 0.5,
+  "prior_negative": 0.5,
+  "temperature": 1.0
+}

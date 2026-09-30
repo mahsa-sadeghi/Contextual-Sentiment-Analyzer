@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evaluation Dashboard</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<main class="page">
+  <header class="site-header">
+    <div>
+      <h1>Evaluation Dashboard</h1>
+      <p>Local regression metrics, benchmark validation, calibration, and common model errors.</p>
+    </div>
+    <a class="secondary-button" href="/">Back to analyzer</a>
+  </header>
+
+  <section class="metric-grid" id="metrics">
+    <article class="metric-card"><span>Local accuracy</span><strong id="accuracy">--</strong></article>
+    <article class="metric-card"><span>Precision</span><strong id="precision">--</strong></article>
+    <article class="metric-card"><span>Recall</span><strong id="recall">--</strong></article>
+    <article class="metric-card"><span>F1 score</span><strong id="f1">--</strong></article>
+  </section>
+
+  <section class="panel">
+    <div class="section-heading">
+      <div>
+        <h2>Benchmark validation</h2>
+        <p>Ninety separately written English benchmark sentences. These are not used for training or calibration.</p>
+      </div>
+    </div>
+    <div class="metric-grid compact-metrics">
+      <article class="metric-card"><span>Sentiment</span><strong id="benchmark-sentiment">--</strong></article>
+      <article class="metric-card"><span>Topic</span><strong id="benchmark-topic">--</strong></article>
+      <article class="metric-card"><span>Ambiguity F1</span><strong id="ambiguity-f1">--</strong></article>
+      <article class="metric-card"><span>Target exact</span><strong id="benchmark-target">--</strong></article>
+    </div>
+    <p class="muted" id="benchmark-note"></p>
+  </section>
+
+  <div class="content-grid">
+    <section class="panel">
+      <div class="section-heading">
+        <div>
+          <h2>Confusion matrix</h2>
+          <p>Local positive / negative sentiment test split.</p>
+        </div>
+      </div>
+      <table class="matrix-table">
+        <tr><th></th><th>Predicted +</th><th>Predicted −</th></tr>
+        <tr><th>Actual +</th><td id="matrix-tp">--</td><td id="matrix-fn">--</td></tr>
+        <tr><th>Actual −</th><td id="matrix-fp">--</td><td id="matrix-tn">--</td></tr>
+      </table>
+    </section>
+
+    <section class="panel">
+      <div class="section-heading">
+        <div>
+          <h2>Confidence</h2>
+          <p>Useful for spotting confident mistakes, not just average confidence.</p>
+        </div>
+      </div>
+      <div id="confidence-details" class="stack"></div>
+    </section>
+  </div>
+
+
+  <section class="panel">
+    <div class="section-heading">
+      <div>
+        <h2>Model comparison</h2>
+        <p>Benchmark accuracy for the project model and two small TF-IDF reference models implemented in Python.</p>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Model</th><th>Benchmark accuracy</th></tr></thead>
+        <tbody id="model-table"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="section-heading">
+      <div>
+        <h2>Accuracy by topic</h2>
+        <p>Benchmark performance by domain.</p>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Topic</th><th>Samples</th><th>Sentiment</th><th>Topic label</th></tr></thead>
+        <tbody id="topic-table"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="section-heading">
+      <div>
+        <h2>Target extraction</h2>
+        <p>Exact match is strict. Partial match accepts a shorter or longer version of the same target phrase.</p>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Dataset</th><th>Samples</th><th>Exact match</th><th>Partial match</th></tr></thead>
+        <tbody id="target-table"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="section-heading">
+      <div>
+        <h2>Misclassified examples</h2>
+        <p>Sentences the sentiment classifier gets wrong on the benchmark.</p>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Text</th><th>Actual</th><th>Predicted</th><th>Confidence</th></tr></thead>
+        <tbody id="error-table"></tbody>
+      </table>
+    </div>
+    <p class="muted hidden" id="no-errors">No sentiment errors in this set.</p>
+  </section>
+
+  <section class="panel">
+    <div class="section-heading">
+      <div>
+        <h2>Evaluation details</h2>
+        <p>Dataset sizes and additional metrics.</p>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table><tbody id="metric-table"></tbody></table>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="section-heading word-heading">
+      <div>
+        <h2>Sentiment words</h2>
+        <p>Highest-scoring positive and negative words learned by the local Naive Bayes model.</p>
+      </div>
+      <div class="filters">
+        <select id="word-type" aria-label="Sentiment type">
+          <option value="positive">Positive</option>
+          <option value="negative">Negative</option>
+        </select>
+        <select id="word-count" aria-label="Number of words">
+          <option>5</option>
+          <option selected>10</option>
+          <option>20</option>
+        </select>
+        <button id="explore-btn">Show</button>
+      </div>
+    </div>
+    <div id="word-list" class="stack"></div>
+  </section>
+</main>
+<script src="/static/dashboard.js"></script>
+</body>
+</html>

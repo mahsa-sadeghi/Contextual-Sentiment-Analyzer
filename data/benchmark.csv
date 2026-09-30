@@ -1,0 +1,91 @@
+text,topic,target,sentiment,emotion
+The midfielder kept finding space and made the whole attack look better.,sports,midfielder,positive,admiration
+Watching the team waste time for the final twenty minutes was irritating.,sports,team time wasting,negative,anger
+The new training ground seems like a real improvement for the academy.,sports,training ground,positive,admiration
+Ticket queues outside the arena were a complete mess.,sports,ticket queues,negative,anger
+That last-second winner was the most exciting moment of the season.,sports,last-second winner,positive,excitement
+The council minutes are finally easy for residents to search.,politics,council minutes,positive,admiration
+The registration form for the public consultation is needlessly confusing.,politics,consultation registration form,negative,sadness
+I appreciated how clearly the committee explained the proposed timetable.,politics,committee explanation,positive,admiration
+The debate format made it hard to understand what each proposal actually changed.,politics,debate format,negative,sadness
+The election information page answered the practical questions I had.,politics,election information page,positive,admiration
+My laptop wakes from sleep almost instantly now.,technology,laptop,positive,joy
+The latest firmware update broke the Wi-Fi connection twice today.,technology,firmware update,negative,anger
+This password manager makes signing in noticeably easier.,technology,password manager,positive,joy
+The camera app freezes whenever I switch to video mode.,technology,camera app,negative,anger
+The router setup page is much clearer than the old one.,technology,router setup page,positive,admiration
+The shop replaced the damaged item without making the process difficult.,business,replacement process,positive,admiration
+A surprise fee appeared only after I reached the payment screen.,business,surprise fee,negative,anger
+The invoice layout is straightforward and easy to check.,business,invoice layout,positive,admiration
+Support kept transferring me between departments without solving the problem.,business,support,negative,anger
+The new return policy is simple enough to understand at a glance.,business,return policy,positive,admiration
+The actor gives a quiet but convincing performance.,entertainment,actor performance,positive,admiration
+The comedy repeats the same joke until it stops being funny.,entertainment,comedy,negative,sadness
+I ended up replaying the album all weekend.,entertainment,album,positive,joy
+The game tutorial is so tedious that I nearly stopped playing.,entertainment,game tutorial,negative,sadness
+"The final scene is simple, but it works beautifully.",entertainment,final scene,positive,admiration
+The doctor took time to explain the test results in plain language.,health,doctor explanation,positive,admiration
+Booking a follow-up appointment took three calls and was exhausting.,health,follow-up appointment booking,negative,anger
+The new stretching routine has made my mornings more comfortable.,health,stretching routine,positive,joy
+The medication reminder screen is cluttered and easy to misread.,health,medication reminder screen,negative,sadness
+The clinic staff handled the check-in process calmly and efficiently.,health,clinic staff,positive,admiration
+The paper explains its assumptions carefully instead of hiding them.,science,paper,positive,admiration
+The sample size is too small to make the result convincing.,science,sample size,negative,sadness
+The new sensor produced stable measurements throughout the test.,science,sensor,positive,admiration
+Several charts in the report are hard to read and poorly labeled.,science,report charts,negative,sadness
+The research summary makes the main finding easy to follow.,science,research summary,positive,admiration
+The tutor explained the difficult part in a way that finally made sense.,education,tutor explanation,positive,admiration
+The assignment brief leaves too many important details unspecified.,education,assignment brief,negative,sadness
+The practice questions were genuinely useful before the exam.,education,practice questions,positive,admiration
+The learning portal logs me out so often that studying becomes frustrating.,education,learning portal,negative,anger
+The lecture notes are well organized and quick to review.,education,lecture notes,positive,admiration
+"The guesthouse was quiet, clean, and close to the station.",travel,guesthouse,positive,joy
+Our connection was missed because the first train arrived late.,travel,first train,negative,anger
+The museum pass saved us time at every entrance.,travel,museum pass,positive,admiration
+The rental car desk added an unexpected charge at pickup.,travel,rental car desk,negative,anger
+The local bus map made getting around the city surprisingly easy.,travel,local bus map,positive,joy
+The defense looked composed even after losing its captain.,sports,defense,positive,admiration
+The striker was not convincing in front of goal.,sports,striker,negative,sadness
+"Without the late foul, the match would have ended much better.",sports,late foul,negative,anger
+The new pressing system stops being effective after halftime.,sports,pressing system,negative,sadness
+I liked how calmly the goalkeeper handled crosses.,sports,goalkeeper,positive,admiration
+The policy summary is short enough to understand without legal training.,politics,policy summary,positive,admiration
+The minister never answered the central question.,politics,minister answer,negative,anger
+The voting instructions are no longer confusing.,politics,voting instructions,positive,joy
+"The committee report is detailed, but the recommendation is difficult to justify.",politics,recommendation,negative,sadness
+The public hearing did not feel transparent.,politics,public hearing,negative,sadness
+The router is finally stable after the firmware patch.,technology,router,positive,joy
+The backup tool is useful without being difficult to configure.,technology,backup tool,positive,admiration
+The new browser extension stops working after a few minutes.,technology,browser extension,negative,anger
+I cannot recommend the update because it drains the battery.,technology,update,negative,anger
+The camera no longer freezes when I switch modes.,technology,camera,positive,joy
+The refund process was straightforward and did not waste my time.,business,refund process,positive,admiration
+The invoice is not clear enough for a normal customer.,business,invoice,negative,sadness
+Customer support stopped being helpful once the case was escalated.,business,customer support,negative,sadness
+The subscription page makes cancellation easier than before.,business,subscription page,positive,joy
+The delivery fee is hard to justify for such a short distance.,business,delivery fee,negative,anger
+The final episode is not as funny as the earlier ones.,entertainment,final episode,negative,sadness
+The soundtrack works surprisingly well without becoming distracting.,entertainment,soundtrack,positive,admiration
+The documentary never becomes boring despite its length.,entertainment,documentary,positive,admiration
+The lead performance stops being believable in the final act.,entertainment,lead performance,negative,sadness
+I did not dislike the slower middle section.,entertainment,middle section,positive,joy
+The appointment system is easier to use than it was last month.,health,appointment system,positive,joy
+The instructions are not clear enough for someone taking the medicine for the first time.,health,instructions,negative,sadness
+The nurse was reassuring without sounding dismissive.,health,nurse,positive,admiration
+The waiting area stops feeling comfortable when it gets crowded.,health,waiting area,negative,sadness
+The clinic never explained why the procedure was delayed.,health,clinic explanation,negative,anger
+The method is simple without being scientifically weak.,science,method,positive,admiration
+The experiment did not produce a reliable result.,science,experiment result,negative,sadness
+The revised measurement process is no longer difficult to repeat.,science,measurement process,positive,admiration
+The paper stops being convincing when it discusses the smallest sample.,science,paper,negative,sadness
+The authors never address the missing control group.,science,authors analysis,negative,sadness
+The lecture notes are concise without leaving out the important steps.,education,lecture notes,positive,admiration
+The assignment instructions are not easy to follow.,education,assignment instructions,negative,sadness
+The revision guide no longer feels cluttered.,education,revision guide,positive,joy
+The course stops being useful once the examples become outdated.,education,course,negative,sadness
+The professor never explains how the final grade is calculated.,education,grading explanation,negative,anger
+The hotel is quiet without feeling isolated.,travel,hotel,positive,joy
+The booking page is not difficult to use anymore.,travel,booking page,positive,joy
+The airport signs stop being helpful after passport control.,travel,airport signs,negative,sadness
+The bus timetable never matched the actual departure times.,travel,bus timetable,negative,anger
+The room was not clean enough for the price.,travel,room,negative,disgust

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contextual Sentiment Analyzer</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<main class="page">
+  <header class="site-header">
+    <div>
+      <h1>Contextual Sentiment Analyzer</h1>
+      <p>Analyze sentiment, topic, target, important concepts, and ambiguity in text.</p>
+    </div>
+    <a class="secondary-button" href="/dashboard">Evaluation dashboard</a>
+  </header>
+
+  <section class="panel input-panel">
+    <div class="section-heading">
+      <div>
+        <h2>Analyze text</h2>
+        <p>Enter one English sentence or a short English paragraph.</p>
+      </div>
+    </div>
+
+    <label for="sentence">Text</label>
+    <textarea id="sentence" placeholder="I hate the World Cup coverage, but I love club football."></textarea>
+
+    <div class="actions">
+      <label class="checkbox-row">
+        <input type="checkbox" id="use-context">
+        <span>Use Wikipedia context retrieval when the text is ambiguous</span>
+      </label>
+      <button id="analyze-btn" onclick="analyze()">Analyze</button>
+    </div>
+    <p id="error" class="error hidden"></p>
+  </section>
+
+  <section id="result-section" class="hidden results">
+    <section class="panel overview-panel">
+      <div class="section-heading">
+        <div>
+          <h2>Analysis</h2>
+          <p>Main result for the submitted text.</p>
+        </div>
+      </div>
+
+      <div class="overview-grid">
+        <div class="overview-item">
+          <span>Topic</span>
+          <strong id="topic">—</strong>
+          <small id="topic-confidence"></small>
+        </div>
+        <div class="overview-item">
+          <span>Primary target</span>
+          <strong id="primary-target">—</strong>
+        </div>
+        <div class="overview-item">
+          <span>Sentiment</span>
+          <strong id="sentiment">—</strong>
+          <small id="sentiment-confidence"></small>
+        </div>
+        <div class="overview-item">
+          <span>Emotion</span>
+          <strong id="emotion">—</strong>
+          <small id="emotion-confidence"></small>
+        </div>
+      </div>
+    </section>
+
+    <div class="content-grid">
+      <section class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>Target sentiment</h2>
+            <p>What the sentiment is directed at.</p>
+          </div>
+        </div>
+        <div id="targets" class="stack"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>Important concepts</h2>
+            <p>Keyphrases and opinion words found in the text.</p>
+          </div>
+        </div>
+        <h3>Keyphrases</h3>
+        <div id="keywords" class="chips"></div>
+        <h3>Opinion terms</h3>
+        <div id="opinions" class="chips"></div>
+      </section>
+    </div>
+
+    <div class="content-grid">
+      <section class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>Important sentences</h2>
+            <p>Sentence-level topic labels.</p>
+          </div>
+        </div>
+        <div id="important-sentences" class="stack"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>Ambiguity</h2>
+            <p>Whether the text needs extra context.</p>
+          </div>
+        </div>
+        <div id="ambiguity" class="stack"></div>
+        <div id="context-retrieval" class="rag-block"></div>
+      </section>
+    </div>
+  </section>
+</main>
+<script src="/static/script.js"></script>
+</body>
+</html>
